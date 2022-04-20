@@ -1,0 +1,7476 @@
+﻿{
+    "Sheet1": [
+        {
+            "value": "48 Road",
+            "label": "4"
+        },
+        {
+            "value": "Abegweit Passage",
+            "label": "A"
+        },
+        {
+            "value": "Abells Cape",
+            "label": "A"
+        },
+        {
+            "value": "Abney",
+            "label": "A"
+        },
+        {
+            "value": "Abram-Village",
+            "label": "A"
+        },
+        {
+            "value": "Adams Creek",
+            "label": "A"
+        },
+        {
+            "value": "Adams Pond",
+            "label": "A"
+        },
+        {
+            "value": "Afton",
+            "label": "A"
+        },
+        {
+            "value": "Afton Lake",
+            "label": "A"
+        },
+        {
+            "value": "Afton Road",
+            "label": "A"
+        },
+        {
+            "value": "Aitken Point",
+            "label": "A"
+        },
+        {
+            "value": "Alaska",
+            "label": "A"
+        },
+        {
+            "value": "Albany",
+            "label": "A"
+        },
+        {
+            "value": "Albany Corner",
+            "label": "A"
+        },
+        {
+            "value": "Alberry Plains",
+            "label": "A"
+        },
+        {
+            "value": "Alberton",
+            "label": "A"
+        },
+        {
+            "value": "Alberton Creek",
+            "label": "A"
+        },
+        {
+            "value": "Alberton Harbour",
+            "label": "A"
+        },
+        {
+            "value": "Alberton South",
+            "label": "A"
+        },
+        {
+            "value": "Albion",
+            "label": "A"
+        },
+        {
+            "value": "Albion Cross",
+            "label": "A"
+        },
+        {
+            "value": "Alchorn Point",
+            "label": "A"
+        },
+        {
+            "value": "Alexandra",
+            "label": "A"
+        },
+        {
+            "value": "Alexandra",
+            "label": "A"
+        },
+        {
+            "value": "Alexandra Bay",
+            "label": "A"
+        },
+        {
+            "value": "Alexandra Point",
+            "label": "A"
+        },
+        {
+            "value": "Alexandra Point Range",
+            "label": "A"
+        },
+        {
+            "value": "Alexandra Shoal",
+            "label": "A"
+        },
+        {
+            "value": "Allisary",
+            "label": "A"
+        },
+        {
+            "value": "Allisary Creek",
+            "label": "A"
+        },
+        {
+            "value": "Alliston",
+            "label": "A"
+        },
+        {
+            "value": "Alma",
+            "label": "A"
+        },
+        {
+            "value": "Amherst Cove",
+            "label": "A"
+        },
+        {
+            "value": "Amherst Point",
+            "label": "A"
+        },
+        {
+            "value": "Andersons Creek",
+            "label": "A"
+        },
+        {
+            "value": "Andrews Pond",
+            "label": "A"
+        },
+        {
+            "value": "Anglo Rustico",
+            "label": "A"
+        },
+        {
+            "value": "Anglo Tignish",
+            "label": "A"
+        },
+        {
+            "value": "Annandale",
+            "label": "A"
+        },
+        {
+            "value": "Annandale-Little Pond-Howe Bay",
+            "label": "A"
+        },
+        {
+            "value": "Appin Road",
+            "label": "A"
+        },
+        {
+            "value": "Appletree Creek",
+            "label": "A"
+        },
+        {
+            "value": "Ardgowan National Historic Site of Canada",
+            "label": "A"
+        },
+        {
+            "value": "Argyle Provincial Park",
+            "label": "A"
+        },
+        {
+            "value": "Argyle Shore",
+            "label": "A"
+        },
+        {
+            "value": "Arlington",
+            "label": "A"
+        },
+        {
+            "value": "Arsenault Pond",
+            "label": "A"
+        },
+        {
+            "value": "Arsenaults Pond",
+            "label": "A"
+        },
+        {
+            "value": "Ascension",
+            "label": "A"
+        },
+        {
+            "value": "Ashleys Creek",
+            "label": "A"
+        },
+        {
+            "value": "Ashton",
+            "label": "A"
+        },
+        {
+            "value": "Astyanax Rock",
+            "label": "A"
+        },
+        {
+            "value": "Auburn",
+            "label": "A"
+        },
+        {
+            "value": "Augustine Cove",
+            "label": "A"
+        },
+        {
+            "value": "Augustine Cove",
+            "label": "A"
+        },
+        {
+            "value": "Augustus",
+            "label": "A"
+        },
+        {
+            "value": "Auld Creek",
+            "label": "A"
+        },
+        {
+            "value": "Avondale",
+            "label": "A"
+        },
+        {
+            "value": "Bacon Cove",
+            "label": "B"
+        },
+        {
+            "value": "Baglole Point",
+            "label": "B"
+        },
+        {
+            "value": "Bagnalls Pond",
+            "label": "B"
+        },
+        {
+            "value": "Baie-Egmont",
+            "label": "B"
+        },
+        {
+            "value": "Bains Creek",
+            "label": "B"
+        },
+        {
+            "value": "Bakers Cove",
+            "label": "B"
+        },
+        {
+            "value": "Bald Point",
+            "label": "B"
+        },
+        {
+            "value": "Balderstons Pond",
+            "label": "B"
+        },
+        {
+            "value": "Baldwin Road",
+            "label": "B"
+        },
+        {
+            "value": "Ballems Island",
+            "label": "B"
+        },
+        {
+            "value": "Baltic River",
+            "label": "B"
+        },
+        {
+            "value": "Bambrick Creek",
+            "label": "B"
+        },
+        {
+            "value": "Bangor",
+            "label": "B"
+        },
+        {
+            "value": "Banks Pond",
+            "label": "B"
+        },
+        {
+            "value": "Baptiste Creek",
+            "label": "B"
+        },
+        {
+            "value": "Barachois Run",
+            "label": "B"
+        },
+        {
+            "value": "Barbara Weit River",
+            "label": "B"
+        },
+        {
+            "value": "Barlows Pond",
+            "label": "B"
+        },
+        {
+            "value": "Basin Head",
+            "label": "B"
+        },
+        {
+            "value": "Basin Head Harbour",
+            "label": "B"
+        },
+        {
+            "value": "Bass Cove",
+            "label": "B"
+        },
+        {
+            "value": "Battery Point",
+            "label": "B"
+        },
+        {
+            "value": "Battery Point",
+            "label": "B"
+        },
+        {
+            "value": "Bay Fortune",
+            "label": "B"
+        },
+        {
+            "value": "Bay Fortune",
+            "label": "B"
+        },
+        {
+            "value": "Bayfield",
+            "label": "B"
+        },
+        {
+            "value": "Bayfield Point",
+            "label": "B"
+        },
+        {
+            "value": "Bayside",
+            "label": "B"
+        },
+        {
+            "value": "Bayview",
+            "label": "B"
+        },
+        {
+            "value": "Beach Point",
+            "label": "B"
+        },
+        {
+            "value": "Beach Point",
+            "label": "B"
+        },
+        {
+            "value": "Beachgrove Point",
+            "label": "B"
+        },
+        {
+            "value": "Beacon Point",
+            "label": "B"
+        },
+        {
+            "value": "Bear Reef",
+            "label": "B"
+        },
+        {
+            "value": "Bear River",
+            "label": "B"
+        },
+        {
+            "value": "Bear River",
+            "label": "B"
+        },
+        {
+            "value": "Bear River North",
+            "label": "B"
+        },
+        {
+            "value": "Bear River South",
+            "label": "B"
+        },
+        {
+            "value": "Beaton Creek",
+            "label": "B"
+        },
+        {
+            "value": "Beaton Point",
+            "label": "B"
+        },
+        {
+            "value": "Beaton Road",
+            "label": "B"
+        },
+        {
+            "value": "Beatons Creek",
+            "label": "B"
+        },
+        {
+            "value": "Beatons Creek",
+            "label": "B"
+        },
+        {
+            "value": "Beatons River",
+            "label": "B"
+        },
+        {
+            "value": "Beaver Point",
+            "label": "B"
+        },
+        {
+            "value": "Bedeque",
+            "label": "B"
+        },
+        {
+            "value": "Bedeque Bay",
+            "label": "B"
+        },
+        {
+            "value": "Bedeque and Area",
+            "label": "B"
+        },
+        {
+            "value": "Bedford Corner",
+            "label": "B"
+        },
+        {
+            "value": "Bedford Station",
+            "label": "B"
+        },
+        {
+            "value": "Beech Point",
+            "label": "B"
+        },
+        {
+            "value": "Belfast",
+            "label": "B"
+        },
+        {
+            "value": "Belfast",
+            "label": "B"
+        },
+        {
+            "value": "Belfast",
+            "label": "B"
+        },
+        {
+            "value": "Bell Point",
+            "label": "B"
+        },
+        {
+            "value": "Bell Point Reef",
+            "label": "B"
+        },
+        {
+            "value": "Belle River",
+            "label": "B"
+        },
+        {
+            "value": "Belle River",
+            "label": "B"
+        },
+        {
+            "value": "Bellevue",
+            "label": "B"
+        },
+        {
+            "value": "Bellevue Cove",
+            "label": "B"
+        },
+        {
+            "value": "Bellevue Point",
+            "label": "B"
+        },
+        {
+            "value": "Bells Creek",
+            "label": "B"
+        },
+        {
+            "value": "Bells Point",
+            "label": "B"
+        },
+        {
+            "value": "Bells Point",
+            "label": "B"
+        },
+        {
+            "value": "Bells Pond",
+            "label": "B"
+        },
+        {
+            "value": "Bells Pond",
+            "label": "B"
+        },
+        {
+            "value": "Belmont Lot 16",
+            "label": "B"
+        },
+        {
+            "value": "Belmont Provincial Park",
+            "label": "B"
+        },
+        {
+            "value": "Bentick Cove",
+            "label": "B"
+        },
+        {
+            "value": "Bentick Shoal",
+            "label": "B"
+        },
+        {
+            "value": "Bernards Pond",
+            "label": "B"
+        },
+        {
+            "value": "Berrigans Creek",
+            "label": "B"
+        },
+        {
+            "value": "Bethel",
+            "label": "B"
+        },
+        {
+            "value": "Bethunes Point",
+            "label": "B"
+        },
+        {
+            "value": "Betsys Reef",
+            "label": "B"
+        },
+        {
+            "value": "Bideford",
+            "label": "B"
+        },
+        {
+            "value": "Bideford River",
+            "label": "B"
+        },
+        {
+            "value": "Big Barachois",
+            "label": "B"
+        },
+        {
+            "value": "Big Basin",
+            "label": "B"
+        },
+        {
+            "value": "Big Brook",
+            "label": "B"
+        },
+        {
+            "value": "Big Marsh",
+            "label": "B"
+        },
+        {
+            "value": "Big Pierre Jacques River",
+            "label": "B"
+        },
+        {
+            "value": "Big Point",
+            "label": "B"
+        },
+        {
+            "value": "Big Pond",
+            "label": "B"
+        },
+        {
+            "value": "Big Pond",
+            "label": "B"
+        },
+        {
+            "value": "Big Run",
+            "label": "B"
+        },
+        {
+            "value": "Billhook Point",
+            "label": "B"
+        },
+        {
+            "value": "Birch Creek",
+            "label": "B"
+        },
+        {
+            "value": "Birch Hill",
+            "label": "B"
+        },
+        {
+            "value": "Birch Hill",
+            "label": "B"
+        },
+        {
+            "value": "Birch Point",
+            "label": "B"
+        },
+        {
+            "value": "Birch Point",
+            "label": "B"
+        },
+        {
+            "value": "Bird Island",
+            "label": "B"
+        },
+        {
+            "value": "Black Bank",
+            "label": "B"
+        },
+        {
+            "value": "Black Banks",
+            "label": "B"
+        },
+        {
+            "value": "Black Banks Cove",
+            "label": "B"
+        },
+        {
+            "value": "Black Bridge Creek",
+            "label": "B"
+        },
+        {
+            "value": "Black Brook",
+            "label": "B"
+        },
+        {
+            "value": "Black Creek",
+            "label": "B"
+        },
+        {
+            "value": "Black Creek",
+            "label": "B"
+        },
+        {
+            "value": "Black Lake",
+            "label": "B"
+        },
+        {
+            "value": "Black Marsh",
+            "label": "B"
+        },
+        {
+            "value": "Black Marsh",
+            "label": "B"
+        },
+        {
+            "value": "Black Point",
+            "label": "B"
+        },
+        {
+            "value": "Black Point",
+            "label": "B"
+        },
+        {
+            "value": "Black Point",
+            "label": "B"
+        },
+        {
+            "value": "Black Point",
+            "label": "B"
+        },
+        {
+            "value": "Black Pond",
+            "label": "B"
+        },
+        {
+            "value": "Black Pond",
+            "label": "B"
+        },
+        {
+            "value": "Black Pond Bird Sanctuary",
+            "label": "B"
+        },
+        {
+            "value": "Black Pond Brook",
+            "label": "B"
+        },
+        {
+            "value": "Black River",
+            "label": "B"
+        },
+        {
+            "value": "Black River",
+            "label": "B"
+        },
+        {
+            "value": "Blacketts Creek",
+            "label": "B"
+        },
+        {
+            "value": "Blanchards Pond",
+            "label": "B"
+        },
+        {
+            "value": "Blockhouse Point",
+            "label": "B"
+        },
+        {
+            "value": "Bloomfield",
+            "label": "B"
+        },
+        {
+            "value": "Bloomfield Corner",
+            "label": "B"
+        },
+        {
+            "value": "Bloomfield Provincial Park",
+            "label": "B"
+        },
+        {
+            "value": "Bloomfield Station",
+            "label": "B"
+        },
+        {
+            "value": "Blooming Point",
+            "label": "B"
+        },
+        {
+            "value": "Bog Pond",
+            "label": "B"
+        },
+        {
+            "value": "Bonshaw",
+            "label": "B"
+        },
+        {
+            "value": "Bonshaw",
+            "label": "B"
+        },
+        {
+            "value": "Bonshaw Provincial Park",
+            "label": "B"
+        },
+        {
+            "value": "Borden",
+            "label": "B"
+        },
+        {
+            "value": "Borden Point",
+            "label": "B"
+        },
+        {
+            "value": "Borden-Carleton",
+            "label": "B"
+        },
+        {
+            "value": "Bothwell",
+            "label": "B"
+        },
+        {
+            "value": "Boughton Bay",
+            "label": "B"
+        },
+        {
+            "value": "Boughton Island",
+            "label": "B"
+        },
+        {
+            "value": "Boughton Ledge",
+            "label": "B"
+        },
+        {
+            "value": "Boughton Point",
+            "label": "B"
+        },
+        {
+            "value": "Boughton River",
+            "label": "B"
+        },
+        {
+            "value": "Boughton Spit",
+            "label": "B"
+        },
+        {
+            "value": "Bouquet Cove",
+            "label": "B"
+        },
+        {
+            "value": "Bouquet Point",
+            "label": "B"
+        },
+        {
+            "value": "Bovyer Creek",
+            "label": "B"
+        },
+        {
+            "value": "Boyles Point",
+            "label": "B"
+        },
+        {
+            "value": "Brackley",
+            "label": "B"
+        },
+        {
+            "value": "Brackley",
+            "label": "B"
+        },
+        {
+            "value": "Brackley Bay",
+            "label": "B"
+        },
+        {
+            "value": "Brackley Beach",
+            "label": "B"
+        },
+        {
+            "value": "Brackley Beach",
+            "label": "B"
+        },
+        {
+            "value": "Brackley Point",
+            "label": "B"
+        },
+        {
+            "value": "Brackley Point",
+            "label": "B"
+        },
+        {
+            "value": "Bradley Creek",
+            "label": "B"
+        },
+        {
+            "value": "Bradshaw River",
+            "label": "B"
+        },
+        {
+            "value": "Brae",
+            "label": "B"
+        },
+        {
+            "value": "Brae Harbour",
+            "label": "B"
+        },
+        {
+            "value": "Brae Harbour",
+            "label": "B"
+        },
+        {
+            "value": "Brae Island",
+            "label": "B"
+        },
+        {
+            "value": "Brae River",
+            "label": "B"
+        },
+        {
+            "value": "Branders Pond",
+            "label": "B"
+        },
+        {
+            "value": "Brazels Pond",
+            "label": "B"
+        },
+        {
+            "value": "Breadalbane",
+            "label": "B"
+        },
+        {
+            "value": "Breadalbane Pond",
+            "label": "B"
+        },
+        {
+            "value": "Bridgetown",
+            "label": "B"
+        },
+        {
+            "value": "Brighton",
+            "label": "B"
+        },
+        {
+            "value": "Brighton Shore",
+            "label": "B"
+        },
+        {
+            "value": "Bristol",
+            "label": "B"
+        },
+        {
+            "value": "Brockton",
+            "label": "B"
+        },
+        {
+            "value": "Brookfield",
+            "label": "B"
+        },
+        {
+            "value": "Brooklyn",
+            "label": "B"
+        },
+        {
+            "value": "Brooklyn",
+            "label": "B"
+        },
+        {
+            "value": "Brooklyn Pond",
+            "label": "B"
+        },
+        {
+            "value": "Brooks River",
+            "label": "B"
+        },
+        {
+            "value": "Brooks Wharf",
+            "label": "B"
+        },
+        {
+            "value": "Brookvale",
+            "label": "B"
+        },
+        {
+            "value": "Brookvale Provincial Park",
+            "label": "B"
+        },
+        {
+            "value": "Browns Creek",
+            "label": "B"
+        },
+        {
+            "value": "Browns Creek",
+            "label": "B"
+        },
+        {
+            "value": "Brudenell",
+            "label": "B"
+        },
+        {
+            "value": "Brudenell",
+            "label": "B"
+        },
+        {
+            "value": "Brudenell Island",
+            "label": "B"
+        },
+        {
+            "value": "Brudenell Point",
+            "label": "B"
+        },
+        {
+            "value": "Brudenell River",
+            "label": "B"
+        },
+        {
+            "value": "Brudenell River Provincial Park",
+            "label": "B"
+        },
+        {
+            "value": "Brush Wharf Provincial Park",
+            "label": "B"
+        },
+        {
+            "value": "Buchanan Island",
+            "label": "B"
+        },
+        {
+            "value": "Buffaloland Provincial Park",
+            "label": "B"
+        },
+        {
+            "value": "Bunbury",
+            "label": "B"
+        },
+        {
+            "value": "Bunbury Sand",
+            "label": "B"
+        },
+        {
+            "value": "Bungay",
+            "label": "B"
+        },
+        {
+            "value": "Burhoes Creek",
+            "label": "B"
+        },
+        {
+            "value": "Burhoes Point",
+            "label": "B"
+        },
+        {
+            "value": "Burkes Creek",
+            "label": "B"
+        },
+        {
+            "value": "Burlington",
+            "label": "B"
+        },
+        {
+            "value": "Burnt Point",
+            "label": "B"
+        },
+        {
+            "value": "Burnt Point",
+            "label": "B"
+        },
+        {
+            "value": "Burnt Point",
+            "label": "B"
+        },
+        {
+            "value": "Burton",
+            "label": "B"
+        },
+        {
+            "value": "Bury Head",
+            "label": "B"
+        },
+        {
+            "value": "Buxtons Point",
+            "label": "B"
+        },
+        {
+            "value": "Byrnes Creek",
+            "label": "B"
+        },
+        {
+            "value": "Byrnes Road",
+            "label": "B"
+        },
+        {
+            "value": "Cable Head",
+            "label": "C"
+        },
+        {
+            "value": "Cable Head East",
+            "label": "C"
+        },
+        {
+            "value": "Cable Head West",
+            "label": "C"
+        },
+        {
+            "value": "Cabot Provincial Park",
+            "label": "C"
+        },
+        {
+            "value": "Cahoon Creek",
+            "label": "C"
+        },
+        {
+            "value": "Cains Brook",
+            "label": "C"
+        },
+        {
+            "value": "Caledonia",
+            "label": "C"
+        },
+        {
+            "value": "Callaghan Point",
+            "label": "C"
+        },
+        {
+            "value": "Callaghans Pond",
+            "label": "C"
+        },
+        {
+            "value": "Cambridge",
+            "label": "C"
+        },
+        {
+            "value": "Cameron Island",
+            "label": "C"
+        },
+        {
+            "value": "Cameron Point",
+            "label": "C"
+        },
+        {
+            "value": "Campbell Creek",
+            "label": "C"
+        },
+        {
+            "value": "Campbell Point",
+            "label": "C"
+        },
+        {
+            "value": "Campbell Point",
+            "label": "C"
+        },
+        {
+            "value": "Campbell Point",
+            "label": "C"
+        },
+        {
+            "value": "Campbells Cape",
+            "label": "C"
+        },
+        {
+            "value": "Campbells Cove",
+            "label": "C"
+        },
+        {
+            "value": "Campbells Cove",
+            "label": "C"
+        },
+        {
+            "value": "Campbells Cove Provincial Park",
+            "label": "C"
+        },
+        {
+            "value": "Campbells Creek",
+            "label": "C"
+        },
+        {
+            "value": "Campbells Point",
+            "label": "C"
+        },
+        {
+            "value": "Campbells Point",
+            "label": "C"
+        },
+        {
+            "value": "Campbells Pond",
+            "label": "C"
+        },
+        {
+            "value": "Campbells Pond",
+            "label": "C"
+        },
+        {
+            "value": "Campbellton",
+            "label": "C"
+        },
+        {
+            "value": "Campbellton",
+            "label": "C"
+        },
+        {
+            "value": "Canadian Creek",
+            "label": "C"
+        },
+        {
+            "value": "Canavoy",
+            "label": "C"
+        },
+        {
+            "value": "Canavoy Island",
+            "label": "C"
+        },
+        {
+            "value": "Canceaux Cove",
+            "label": "C"
+        },
+        {
+            "value": "Canceaux Point",
+            "label": "C"
+        },
+        {
+            "value": "Canceaux Spit",
+            "label": "C"
+        },
+        {
+            "value": "Canns Pond",
+            "label": "C"
+        },
+        {
+            "value": "Canoe Cove",
+            "label": "C"
+        },
+        {
+            "value": "Canoe Cove",
+            "label": "C"
+        },
+        {
+            "value": "Cantalo Creek",
+            "label": "C"
+        },
+        {
+            "value": "Cap Egmont",
+            "label": "C"
+        },
+        {
+            "value": "Cap-Egmont",
+            "label": "C"
+        },
+        {
+            "value": "Cape Bear",
+            "label": "C"
+        },
+        {
+            "value": "Cape Gage",
+            "label": "C"
+        },
+        {
+            "value": "Cape Kildare",
+            "label": "C"
+        },
+        {
+            "value": "Cape Sharp",
+            "label": "C"
+        },
+        {
+            "value": "Cape Spry",
+            "label": "C"
+        },
+        {
+            "value": "Cape Stanhope",
+            "label": "C"
+        },
+        {
+            "value": "Cape Traverse",
+            "label": "C"
+        },
+        {
+            "value": "Cape Traverse Cove",
+            "label": "C"
+        },
+        {
+            "value": "Cape Traverse Landing",
+            "label": "C"
+        },
+        {
+            "value": "Cape Traverse River",
+            "label": "C"
+        },
+        {
+            "value": "Cape Tryon",
+            "label": "C"
+        },
+        {
+            "value": "Cape Turner",
+            "label": "C"
+        },
+        {
+            "value": "Cape Wolfe",
+            "label": "C"
+        },
+        {
+            "value": "Cape Wolfe",
+            "label": "C"
+        },
+        {
+            "value": "Cape Wolfe Rock",
+            "label": "C"
+        },
+        {
+            "value": "Cardigan",
+            "label": "C"
+        },
+        {
+            "value": "Cardigan",
+            "label": "C"
+        },
+        {
+            "value": "Cardigan Bay",
+            "label": "C"
+        },
+        {
+            "value": "Cardigan North",
+            "label": "C"
+        },
+        {
+            "value": "Cardigan River",
+            "label": "C"
+        },
+        {
+            "value": "Cardigan Shoal",
+            "label": "C"
+        },
+        {
+            "value": "Cardross",
+            "label": "C"
+        },
+        {
+            "value": "Carey Point",
+            "label": "C"
+        },
+        {
+            "value": "Carleton",
+            "label": "C"
+        },
+        {
+            "value": "Carleton",
+            "label": "C"
+        },
+        {
+            "value": "Carleton Cove",
+            "label": "C"
+        },
+        {
+            "value": "Carleton Siding",
+            "label": "C"
+        },
+        {
+            "value": "Carraghers Pond",
+            "label": "C"
+        },
+        {
+            "value": "Carrs Creek",
+            "label": "C"
+        },
+        {
+            "value": "Carrs Point",
+            "label": "C"
+        },
+        {
+            "value": "Carrs Pond",
+            "label": "C"
+        },
+        {
+            "value": "Carruthers Brook",
+            "label": "C"
+        },
+        {
+            "value": "Cascumpec",
+            "label": "C"
+        },
+        {
+            "value": "Cascumpec Bay",
+            "label": "C"
+        },
+        {
+            "value": "Cascumpec Sand Hills",
+            "label": "C"
+        },
+        {
+            "value": "Cass Pond",
+            "label": "C"
+        },
+        {
+            "value": "Cavendish",
+            "label": "C"
+        },
+        {
+            "value": "Cavendish Beach",
+            "label": "C"
+        },
+        {
+            "value": "Cavendish Capes",
+            "label": "C"
+        },
+        {
+            "value": "Cedar Dunes Provincial Park",
+            "label": "C"
+        },
+        {
+            "value": "Central Bedeque",
+            "label": "C"
+        },
+        {
+            "value": "Central Kildare",
+            "label": "C"
+        },
+        {
+            "value": "Central Kings",
+            "label": "C"
+        },
+        {
+            "value": "Central Lot 16",
+            "label": "C"
+        },
+        {
+            "value": "Central Lot 16 Wharf",
+            "label": "C"
+        },
+        {
+            "value": "Chaffeys Point",
+            "label": "C"
+        },
+        {
+            "value": "Champ de tir Alexandra Point",
+            "label": "C"
+        },
+        {
+            "value": "Chapel Creek",
+            "label": "C"
+        },
+        {
+            "value": "Chapel Point",
+            "label": "C"
+        },
+        {
+            "value": "Chapel Point",
+            "label": "C"
+        },
+        {
+            "value": "Charles Shoal",
+            "label": "C"
+        },
+        {
+            "value": "Charlottetown",
+            "label": "C"
+        },
+        {
+            "value": "Charlottetown",
+            "label": "C"
+        },
+        {
+            "value": "Charlottetown Harbour",
+            "label": "C"
+        },
+        {
+            "value": "Chelton",
+            "label": "C"
+        },
+        {
+            "value": "Chelton Provincial Park",
+            "label": "C"
+        },
+        {
+            "value": "Chelton Shore",
+            "label": "C"
+        },
+        {
+            "value": "Chepstow",
+            "label": "C"
+        },
+        {
+            "value": "Chepstow Point",
+            "label": "C"
+        },
+        {
+            "value": "Cherry Hill",
+            "label": "C"
+        },
+        {
+            "value": "Cherry Island",
+            "label": "C"
+        },
+        {
+            "value": "Cherry Valley",
+            "label": "C"
+        },
+        {
+            "value": "Cherry Valley Cove",
+            "label": "C"
+        },
+        {
+            "value": "Chichester Cove",
+            "label": "C"
+        },
+        {
+            "value": "China Creek",
+            "label": "C"
+        },
+        {
+            "value": "China Point",
+            "label": "C"
+        },
+        {
+            "value": "China Point",
+            "label": "C"
+        },
+        {
+            "value": "Christie Island",
+            "label": "C"
+        },
+        {
+            "value": "Christopher Cross",
+            "label": "C"
+        },
+        {
+            "value": "Church Road",
+            "label": "C"
+        },
+        {
+            "value": "Churchill",
+            "label": "C"
+        },
+        {
+            "value": "Clarkes Pond",
+            "label": "C"
+        },
+        {
+            "value": "Clarkin",
+            "label": "C"
+        },
+        {
+            "value": "Clarks Bay",
+            "label": "C"
+        },
+        {
+            "value": "Clarks Creek",
+            "label": "C"
+        },
+        {
+            "value": "Clarks Creek",
+            "label": "C"
+        },
+        {
+            "value": "Clarks Pond",
+            "label": "C"
+        },
+        {
+            "value": "Clarks Pond",
+            "label": "C"
+        },
+        {
+            "value": "Clearspring",
+            "label": "C"
+        },
+        {
+            "value": "Clermont",
+            "label": "C"
+        },
+        {
+            "value": "Clinton",
+            "label": "C"
+        },
+        {
+            "value": "Clinton Pond",
+            "label": "C"
+        },
+        {
+            "value": "Clows Point",
+            "label": "C"
+        },
+        {
+            "value": "Clyde",
+            "label": "C"
+        },
+        {
+            "value": "Clyde River",
+            "label": "C"
+        },
+        {
+            "value": "Clyde River",
+            "label": "C"
+        },
+        {
+            "value": "Clyde River",
+            "label": "C"
+        },
+        {
+            "value": "Cobbs Hill",
+            "label": "C"
+        },
+        {
+            "value": "Cody Point",
+            "label": "C"
+        },
+        {
+            "value": "Codys Creek",
+            "label": "C"
+        },
+        {
+            "value": "Coleman",
+            "label": "C"
+        },
+        {
+            "value": "Coles Creek",
+            "label": "C"
+        },
+        {
+            "value": "Coles Pond",
+            "label": "C"
+        },
+        {
+            "value": "Collingwoods Creek",
+            "label": "C"
+        },
+        {
+            "value": "Colville",
+            "label": "C"
+        },
+        {
+            "value": "Colville Bay",
+            "label": "C"
+        },
+        {
+            "value": "Commercial Cross",
+            "label": "C"
+        },
+        {
+            "value": "Comptons Creek",
+            "label": "C"
+        },
+        {
+            "value": "Comptons Pond",
+            "label": "C"
+        },
+        {
+            "value": "Condons Pond",
+            "label": "C"
+        },
+        {
+            "value": "Conway",
+            "label": "C"
+        },
+        {
+            "value": "Conway Cove",
+            "label": "C"
+        },
+        {
+            "value": "Conway Narrows",
+            "label": "C"
+        },
+        {
+            "value": "Conway Sand Hills",
+            "label": "C"
+        },
+        {
+            "value": "Cooks Pond",
+            "label": "C"
+        },
+        {
+            "value": "Cornwall",
+            "label": "C"
+        },
+        {
+            "value": "Corran Ban",
+            "label": "C"
+        },
+        {
+            "value": "Corraville",
+            "label": "C"
+        },
+        {
+            "value": "Courtin Island",
+            "label": "C"
+        },
+        {
+            "value": "Courtin Shoal",
+            "label": "C"
+        },
+        {
+            "value": "Cousins Pond",
+            "label": "C"
+        },
+        {
+            "value": "Covehead",
+            "label": "C"
+        },
+        {
+            "value": "Covehead Bay",
+            "label": "C"
+        },
+        {
+            "value": "Covehead Road",
+            "label": "C"
+        },
+        {
+            "value": "Cow River",
+            "label": "C"
+        },
+        {
+            "value": "Cranberry Point",
+            "label": "C"
+        },
+        {
+            "value": "Cranes Pond",
+            "label": "C"
+        },
+        {
+            "value": "Crapaud",
+            "label": "C"
+        },
+        {
+            "value": "Crawford Point",
+            "label": "C"
+        },
+        {
+            "value": "Creeds Pond",
+            "label": "C"
+        },
+        {
+            "value": "Crooked Creek",
+            "label": "C"
+        },
+        {
+            "value": "Crooked Creek",
+            "label": "C"
+        },
+        {
+            "value": "Crooked River",
+            "label": "C"
+        },
+        {
+            "value": "Crosby Point",
+            "label": "C"
+        },
+        {
+            "value": "Crosbys Mill",
+            "label": "C"
+        },
+        {
+            "value": "Crosbys Pond",
+            "label": "C"
+        },
+        {
+            "value": "Cross River",
+            "label": "C"
+        },
+        {
+            "value": "Cross River",
+            "label": "C"
+        },
+        {
+            "value": "Cross Roads",
+            "label": "C"
+        },
+        {
+            "value": "Crossman Creek",
+            "label": "C"
+        },
+        {
+            "value": "Crossmans Brook",
+            "label": "C"
+        },
+        {
+            "value": "Crown Point",
+            "label": "C"
+        },
+        {
+            "value": "Cuddys Point",
+            "label": "C"
+        },
+        {
+            "value": "Culloden",
+            "label": "C"
+        },
+        {
+            "value": "Cumberland",
+            "label": "C"
+        },
+        {
+            "value": "Cumberland Cove",
+            "label": "C"
+        },
+        {
+            "value": "Cymbria",
+            "label": "C"
+        },
+        {
+            "value": "Daltons Brook",
+            "label": "D"
+        },
+        {
+            "value": "Dalvay",
+            "label": "D"
+        },
+        {
+            "value": "Dalvay Beach",
+            "label": "D"
+        },
+        {
+            "value": "Dalvay Lake",
+            "label": "D"
+        },
+        {
+            "value": "Dalvay Pond",
+            "label": "D"
+        },
+        {
+            "value": "Dalvay by the Sea",
+            "label": "D"
+        },
+        {
+            "value": "Dalvay-by-the-Sea National Historic Site of Canada",
+            "label": "D"
+        },
+        {
+            "value": "Darlington",
+            "label": "D"
+        },
+        {
+            "value": "Darlington",
+            "label": "D"
+        },
+        {
+            "value": "Darnley",
+            "label": "D"
+        },
+        {
+            "value": "Darnley Basin",
+            "label": "D"
+        },
+        {
+            "value": "Darnley Point",
+            "label": "D"
+        },
+        {
+            "value": "Davies Point",
+            "label": "D"
+        },
+        {
+            "value": "Dawsons Point",
+            "label": "D"
+        },
+        {
+            "value": "Days Corner",
+            "label": "D"
+        },
+        {
+            "value": "DeBlois",
+            "label": "D"
+        },
+        {
+            "value": "DeGros Marsh",
+            "label": "D"
+        },
+        {
+            "value": "DeGros Marsh",
+            "label": "D"
+        },
+        {
+            "value": "DeSable",
+            "label": "D"
+        },
+        {
+            "value": "DeSable River",
+            "label": "D"
+        },
+        {
+            "value": "Deane Point",
+            "label": "D"
+        },
+        {
+            "value": "Dennis Point",
+            "label": "D"
+        },
+        {
+            "value": "Derby",
+            "label": "D"
+        },
+        {
+            "value": "Devil's Punchbowl Provincial Park",
+            "label": "D"
+        },
+        {
+            "value": "Dewars Point",
+            "label": "D"
+        },
+        {
+            "value": "Dewars Pond",
+            "label": "D"
+        },
+        {
+            "value": "Dickiesons Point",
+            "label": "D"
+        },
+        {
+            "value": "Diligent Pond",
+            "label": "D"
+        },
+        {
+            "value": "Dingwell",
+            "label": "D"
+        },
+        {
+            "value": "Dingwells Mills",
+            "label": "D"
+        },
+        {
+            "value": "Dirty River",
+            "label": "D"
+        },
+        {
+            "value": "Dixons Creek",
+            "label": "D"
+        },
+        {
+            "value": "Dixons Pond",
+            "label": "D"
+        },
+        {
+            "value": "Dock Corner",
+            "label": "D"
+        },
+        {
+            "value": "Dock Creek",
+            "label": "D"
+        },
+        {
+            "value": "Dock River",
+            "label": "D"
+        },
+        {
+            "value": "Dockies Point",
+            "label": "D"
+        },
+        {
+            "value": "Doctors Point",
+            "label": "D"
+        },
+        {
+            "value": "Dog Creek",
+            "label": "D"
+        },
+        {
+            "value": "Doirons Creek",
+            "label": "D"
+        },
+        {
+            "value": "Donagh",
+            "label": "D"
+        },
+        {
+            "value": "Donaldston",
+            "label": "D"
+        },
+        {
+            "value": "Douglas",
+            "label": "D"
+        },
+        {
+            "value": "Douglas Brook",
+            "label": "D"
+        },
+        {
+            "value": "Douse Point",
+            "label": "D"
+        },
+        {
+            "value": "Dover",
+            "label": "D"
+        },
+        {
+            "value": "Doyles Bridge",
+            "label": "D"
+        },
+        {
+            "value": "Doyles Cove",
+            "label": "D"
+        },
+        {
+            "value": "Doyles Point",
+            "label": "D"
+        },
+        {
+            "value": "Doyles Point",
+            "label": "D"
+        },
+        {
+            "value": "Doyles Pond",
+            "label": "D"
+        },
+        {
+            "value": "Doyles Pond",
+            "label": "D"
+        },
+        {
+            "value": "Drakes Point",
+            "label": "D"
+        },
+        {
+            "value": "Dromore",
+            "label": "D"
+        },
+        {
+            "value": "Duchess Point",
+            "label": "D"
+        },
+        {
+            "value": "Duck Creek",
+            "label": "D"
+        },
+        {
+            "value": "Duffys Point",
+            "label": "D"
+        },
+        {
+            "value": "Dunblane",
+            "label": "D"
+        },
+        {
+            "value": "Dundas",
+            "label": "D"
+        },
+        {
+            "value": "Dundee",
+            "label": "D"
+        },
+        {
+            "value": "Dunedin",
+            "label": "D"
+        },
+        {
+            "value": "Dunk River",
+            "label": "D"
+        },
+        {
+            "value": "Dunns Creek",
+            "label": "D"
+        },
+        {
+            "value": "Dunstaffnage",
+            "label": "D"
+        },
+        {
+            "value": "Durant Creek",
+            "label": "D"
+        },
+        {
+            "value": "Durell Point",
+            "label": "D"
+        },
+        {
+            "value": "Dutchman Rock",
+            "label": "D"
+        },
+        {
+            "value": "Duvar",
+            "label": "D"
+        },
+        {
+            "value": "Détroit de Northumberland",
+            "label": "D"
+        },
+        {
+            "value": "Earnscliffe",
+            "label": "E"
+        },
+        {
+            "value": "East Baltic",
+            "label": "E"
+        },
+        {
+            "value": "East Bideford",
+            "label": "E"
+        },
+        {
+            "value": "East Branch Morell River",
+            "label": "E"
+        },
+        {
+            "value": "East Branch Tryon River",
+            "label": "E"
+        },
+        {
+            "value": "East Branch Westmoreland River",
+            "label": "E"
+        },
+        {
+            "value": "East Lake",
+            "label": "E"
+        },
+        {
+            "value": "East Lake Creek",
+            "label": "E"
+        },
+        {
+            "value": "East Point",
+            "label": "E"
+        },
+        {
+            "value": "East Point",
+            "label": "E"
+        },
+        {
+            "value": "East Point Reef",
+            "label": "E"
+        },
+        {
+            "value": "East Royalty",
+            "label": "E"
+        },
+        {
+            "value": "East Wiltshire",
+            "label": "E"
+        },
+        {
+            "value": "Eastern Kings",
+            "label": "E"
+        },
+        {
+            "value": "Ebbsfleet",
+            "label": "E"
+        },
+        {
+            "value": "Ebenezer",
+            "label": "E"
+        },
+        {
+            "value": "Eel Creek",
+            "label": "E"
+        },
+        {
+            "value": "Eglington",
+            "label": "E"
+        },
+        {
+            "value": "Eglington Cove",
+            "label": "E"
+        },
+        {
+            "value": "Egmont Bank",
+            "label": "E"
+        },
+        {
+            "value": "Egmont Bay",
+            "label": "E"
+        },
+        {
+            "value": "Eldon",
+            "label": "E"
+        },
+        {
+            "value": "Ellens Creek",
+            "label": "E"
+        },
+        {
+            "value": "Ellerslie",
+            "label": "E"
+        },
+        {
+            "value": "Ellerslie Brook",
+            "label": "E"
+        },
+        {
+            "value": "Ellerslie-Bideford",
+            "label": "E"
+        },
+        {
+            "value": "Elliotts",
+            "label": "E"
+        },
+        {
+            "value": "Elliotts Pond",
+            "label": "E"
+        },
+        {
+            "value": "Elliotvale",
+            "label": "E"
+        },
+        {
+            "value": "Ellis Brook",
+            "label": "E"
+        },
+        {
+            "value": "Ellis Cove",
+            "label": "E"
+        },
+        {
+            "value": "Ellis Island",
+            "label": "E"
+        },
+        {
+            "value": "Elm Point",
+            "label": "E"
+        },
+        {
+            "value": "Elmira",
+            "label": "E"
+        },
+        {
+            "value": "Elmsdale",
+            "label": "E"
+        },
+        {
+            "value": "Elmwood",
+            "label": "E"
+        },
+        {
+            "value": "Emerald",
+            "label": "E"
+        },
+        {
+            "value": "Emyvale",
+            "label": "E"
+        },
+        {
+            "value": "Englands Point",
+            "label": "E"
+        },
+        {
+            "value": "Enman Shore",
+            "label": "E"
+        },
+        {
+            "value": "Enmore",
+            "label": "E"
+        },
+        {
+            "value": "Enmore River",
+            "label": "E"
+        },
+        {
+            "value": "Fairfield",
+            "label": "F"
+        },
+        {
+            "value": "Fairview",
+            "label": "F"
+        },
+        {
+            "value": "Fanning Brook",
+            "label": "F"
+        },
+        {
+            "value": "Fanning Brook",
+            "label": "F"
+        },
+        {
+            "value": "Fantasyland Provincial Park",
+            "label": "F"
+        },
+        {
+            "value": "Farmington",
+            "label": "F"
+        },
+        {
+            "value": "Farrells Brook",
+            "label": "F"
+        },
+        {
+            "value": "Feehans Creek",
+            "label": "F"
+        },
+        {
+            "value": "Feehans Point",
+            "label": "F"
+        },
+        {
+            "value": "Feehans Pond",
+            "label": "F"
+        },
+        {
+            "value": "Feehans Shore",
+            "label": "F"
+        },
+        {
+            "value": "Ferguson Creek",
+            "label": "F"
+        },
+        {
+            "value": "Ferguson Point",
+            "label": "F"
+        },
+        {
+            "value": "Fernwood",
+            "label": "F"
+        },
+        {
+            "value": "Ferry Point",
+            "label": "F"
+        },
+        {
+            "value": "Ferry Point",
+            "label": "F"
+        },
+        {
+            "value": "Fifteen Point",
+            "label": "F"
+        },
+        {
+            "value": "Finlaysons Point",
+            "label": "F"
+        },
+        {
+            "value": "Finlaysons Pond",
+            "label": "F"
+        },
+        {
+            "value": "Finleys Point",
+            "label": "F"
+        },
+        {
+            "value": "Fish Island",
+            "label": "F"
+        },
+        {
+            "value": "Fisherman's Haven Provincial Park",
+            "label": "F"
+        },
+        {
+            "value": "Fishermans Bank",
+            "label": "F"
+        },
+        {
+            "value": "Fishing Cove",
+            "label": "F"
+        },
+        {
+            "value": "Fitzpatricks Pond",
+            "label": "F"
+        },
+        {
+            "value": "Fitzroy Rock",
+            "label": "F"
+        },
+        {
+            "value": "Fitzsimmons Point",
+            "label": "F"
+        },
+        {
+            "value": "Five Houses",
+            "label": "F"
+        },
+        {
+            "value": "Flat River",
+            "label": "F"
+        },
+        {
+            "value": "Flat River",
+            "label": "F"
+        },
+        {
+            "value": "Fodhla",
+            "label": "F"
+        },
+        {
+            "value": "Foleys Pond",
+            "label": "F"
+        },
+        {
+            "value": "Forest Hill",
+            "label": "F"
+        },
+        {
+            "value": "Forestview",
+            "label": "F"
+        },
+        {
+            "value": "Fort Augustus",
+            "label": "F"
+        },
+        {
+            "value": "Fortune Beach",
+            "label": "F"
+        },
+        {
+            "value": "Fortune Bridge",
+            "label": "F"
+        },
+        {
+            "value": "Fortune Cove",
+            "label": "F"
+        },
+        {
+            "value": "Fortune Cove",
+            "label": "F"
+        },
+        {
+            "value": "Fortune Harbour",
+            "label": "F"
+        },
+        {
+            "value": "Fortune River",
+            "label": "F"
+        },
+        {
+            "value": "Founds Mills",
+            "label": "F"
+        },
+        {
+            "value": "Founds River",
+            "label": "F"
+        },
+        {
+            "value": "Fox Hill",
+            "label": "F"
+        },
+        {
+            "value": "Fox Island",
+            "label": "F"
+        },
+        {
+            "value": "Fox Point",
+            "label": "F"
+        },
+        {
+            "value": "Fox River",
+            "label": "F"
+        },
+        {
+            "value": "Fox River",
+            "label": "F"
+        },
+        {
+            "value": "Foxley River",
+            "label": "F"
+        },
+        {
+            "value": "Foxley River",
+            "label": "F"
+        },
+        {
+            "value": "Frederick Cove",
+            "label": "F"
+        },
+        {
+            "value": "Fredericton",
+            "label": "F"
+        },
+        {
+            "value": "Freeland",
+            "label": "F"
+        },
+        {
+            "value": "Freeland Creek",
+            "label": "F"
+        },
+        {
+            "value": "Freetown",
+            "label": "F"
+        },
+        {
+            "value": "French Creek",
+            "label": "F"
+        },
+        {
+            "value": "French Creek",
+            "label": "F"
+        },
+        {
+            "value": "French Marsh",
+            "label": "F"
+        },
+        {
+            "value": "French Marsh Point",
+            "label": "F"
+        },
+        {
+            "value": "French River",
+            "label": "F"
+        },
+        {
+            "value": "French River",
+            "label": "F"
+        },
+        {
+            "value": "French Village",
+            "label": "F"
+        },
+        {
+            "value": "French Village",
+            "label": "F"
+        },
+        {
+            "value": "Frenchfort",
+            "label": "F"
+        },
+        {
+            "value": "Frizzells Pond",
+            "label": "F"
+        },
+        {
+            "value": "Fullertons Creek",
+            "label": "F"
+        },
+        {
+            "value": "Fullertons Marsh",
+            "label": "F"
+        },
+        {
+            "value": "Gains Creek",
+            "label": "G"
+        },
+        {
+            "value": "Gairloch",
+            "label": "G"
+        },
+        {
+            "value": "Gallas Point",
+            "label": "G"
+        },
+        {
+            "value": "Gambles Corner",
+            "label": "G"
+        },
+        {
+            "value": "Gardiner Shore",
+            "label": "G"
+        },
+        {
+            "value": "Garfield",
+            "label": "G"
+        },
+        {
+            "value": "Gascoigne Cove",
+            "label": "G"
+        },
+        {
+            "value": "Gaspereaux",
+            "label": "G"
+        },
+        {
+            "value": "Gates Pond",
+            "label": "G"
+        },
+        {
+            "value": "Gaudin Point",
+            "label": "G"
+        },
+        {
+            "value": "George River",
+            "label": "G"
+        },
+        {
+            "value": "Georgetown",
+            "label": "G"
+        },
+        {
+            "value": "Georgetown",
+            "label": "G"
+        },
+        {
+            "value": "Georgetown Harbour",
+            "label": "G"
+        },
+        {
+            "value": "Georgetown Royalty",
+            "label": "G"
+        },
+        {
+            "value": "Getson Bridge",
+            "label": "G"
+        },
+        {
+            "value": "Getsons Pond",
+            "label": "G"
+        },
+        {
+            "value": "Ghost Point",
+            "label": "G"
+        },
+        {
+            "value": "Gillespies Creek",
+            "label": "G"
+        },
+        {
+            "value": "Gillis Point",
+            "label": "G"
+        },
+        {
+            "value": "Gillis Pond",
+            "label": "G"
+        },
+        {
+            "value": "Gladstone",
+            "label": "G"
+        },
+        {
+            "value": "Glasses Cove",
+            "label": "G"
+        },
+        {
+            "value": "Glen Valley",
+            "label": "G"
+        },
+        {
+            "value": "Glencoe",
+            "label": "G"
+        },
+        {
+            "value": "Glencorradale",
+            "label": "G"
+        },
+        {
+            "value": "Glenfanning",
+            "label": "G"
+        },
+        {
+            "value": "Glenfinnan",
+            "label": "G"
+        },
+        {
+            "value": "Glenfinnan Lake",
+            "label": "G"
+        },
+        {
+            "value": "Glenfinnan River",
+            "label": "G"
+        },
+        {
+            "value": "Glengarry",
+            "label": "G"
+        },
+        {
+            "value": "Glenmartin",
+            "label": "G"
+        },
+        {
+            "value": "Glenroy",
+            "label": "G"
+        },
+        {
+            "value": "Glenwilliam",
+            "label": "G"
+        },
+        {
+            "value": "Glenwood",
+            "label": "G"
+        },
+        {
+            "value": "Glenwood Pond",
+            "label": "G"
+        },
+        {
+            "value": "Glovers Shore",
+            "label": "G"
+        },
+        {
+            "value": "Golfe du Saint-Laurent",
+            "label": "G"
+        },
+        {
+            "value": "Goose Harbour",
+            "label": "G"
+        },
+        {
+            "value": "Goose River",
+            "label": "G"
+        },
+        {
+            "value": "Goose River",
+            "label": "G"
+        },
+        {
+            "value": "Goose River",
+            "label": "G"
+        },
+        {
+            "value": "Gordon Cove",
+            "label": "G"
+        },
+        {
+            "value": "Gordon Point",
+            "label": "G"
+        },
+        {
+            "value": "Gordon Point",
+            "label": "G"
+        },
+        {
+            "value": "Gordons Creek",
+            "label": "G"
+        },
+        {
+            "value": "Gordons Island",
+            "label": "G"
+        },
+        {
+            "value": "Gordons Point",
+            "label": "G"
+        },
+        {
+            "value": "Gordons Pond",
+            "label": "G"
+        },
+        {
+            "value": "Governors Island",
+            "label": "G"
+        },
+        {
+            "value": "Governors Shoals",
+            "label": "G"
+        },
+        {
+            "value": "Gowanbrae",
+            "label": "G"
+        },
+        {
+            "value": "Graham Ledge",
+            "label": "G"
+        },
+        {
+            "value": "Graham Pond",
+            "label": "G"
+        },
+        {
+            "value": "Graham Rogers Lake",
+            "label": "G"
+        },
+        {
+            "value": "Grahams Creek",
+            "label": "G"
+        },
+        {
+            "value": "Grahams Road",
+            "label": "G"
+        },
+        {
+            "value": "Grahams Road Brook",
+            "label": "G"
+        },
+        {
+            "value": "Grand Pere Point",
+            "label": "G"
+        },
+        {
+            "value": "Grand River",
+            "label": "G"
+        },
+        {
+            "value": "Grand River",
+            "label": "G"
+        },
+        {
+            "value": "Grand Tracadie",
+            "label": "G"
+        },
+        {
+            "value": "Grand Tracadie",
+            "label": "G"
+        },
+        {
+            "value": "Grande Digue Point",
+            "label": "G"
+        },
+        {
+            "value": "Grande Digue Shore",
+            "label": "G"
+        },
+        {
+            "value": "Grandview",
+            "label": "G"
+        },
+        {
+            "value": "Grants Brook",
+            "label": "G"
+        },
+        {
+            "value": "Granville",
+            "label": "G"
+        },
+        {
+            "value": "Granville Creek",
+            "label": "G"
+        },
+        {
+            "value": "Grays Point",
+            "label": "G"
+        },
+        {
+            "value": "Graystone Creek",
+            "label": "G"
+        },
+        {
+            "value": "Greek River",
+            "label": "G"
+        },
+        {
+            "value": "Green Bay",
+            "label": "G"
+        },
+        {
+            "value": "Green Gables",
+            "label": "G"
+        },
+        {
+            "value": "Green Meadows",
+            "label": "G"
+        },
+        {
+            "value": "Green Point",
+            "label": "G"
+        },
+        {
+            "value": "Green Provincial Park",
+            "label": "G"
+        },
+        {
+            "value": "Green Road",
+            "label": "G"
+        },
+        {
+            "value": "Greenfield",
+            "label": "G"
+        },
+        {
+            "value": "Greenmount",
+            "label": "G"
+        },
+        {
+            "value": "Greenmount-Montrose",
+            "label": "G"
+        },
+        {
+            "value": "Greens Brook",
+            "label": "G"
+        },
+        {
+            "value": "Greenvale",
+            "label": "G"
+        },
+        {
+            "value": "Greenvale",
+            "label": "G"
+        },
+        {
+            "value": "Greenwich",
+            "label": "G"
+        },
+        {
+            "value": "Grey Point",
+            "label": "G"
+        },
+        {
+            "value": "Griggs Creek",
+            "label": "G"
+        },
+        {
+            "value": "Grog Island",
+            "label": "G"
+        },
+        {
+            "value": "Grovepine Brook",
+            "label": "G"
+        },
+        {
+            "value": "Guernsey Cove",
+            "label": "G"
+        },
+        {
+            "value": "Guernsey Cove",
+            "label": "G"
+        },
+        {
+            "value": "Gulf of St. Lawrence",
+            "label": "G"
+        },
+        {
+            "value": "Gull Point",
+            "label": "G"
+        },
+        {
+            "value": "Gull Point",
+            "label": "G"
+        },
+        {
+            "value": "Haldimand River",
+            "label": "H"
+        },
+        {
+            "value": "Haleys Point",
+            "label": "H"
+        },
+        {
+            "value": "Haliburton",
+            "label": "H"
+        },
+        {
+            "value": "Hamilton",
+            "label": "H"
+        },
+        {
+            "value": "Hampshire",
+            "label": "H"
+        },
+        {
+            "value": "Hampshire",
+            "label": "H"
+        },
+        {
+            "value": "Hampton",
+            "label": "H"
+        },
+        {
+            "value": "Hampton Creek",
+            "label": "H"
+        },
+        {
+            "value": "Hansens Pond",
+            "label": "H"
+        },
+        {
+            "value": "Harding Creek",
+            "label": "H"
+        },
+        {
+            "value": "Hardy Point",
+            "label": "H"
+        },
+        {
+            "value": "Hardys Channel",
+            "label": "H"
+        },
+        {
+            "value": "Hardys Pond",
+            "label": "H"
+        },
+        {
+            "value": "Harmony",
+            "label": "H"
+        },
+        {
+            "value": "Harmony Creek",
+            "label": "H"
+        },
+        {
+            "value": "Harmony Junction",
+            "label": "H"
+        },
+        {
+            "value": "Harper",
+            "label": "H"
+        },
+        {
+            "value": "Harpers Brook",
+            "label": "H"
+        },
+        {
+            "value": "Harrington",
+            "label": "H"
+        },
+        {
+            "value": "Hartsville",
+            "label": "H"
+        },
+        {
+            "value": "Haszard Point",
+            "label": "H"
+        },
+        {
+            "value": "Hatchery Pond",
+            "label": "H"
+        },
+        {
+            "value": "Hay River",
+            "label": "H"
+        },
+        {
+            "value": "Haydens Hill",
+            "label": "H"
+        },
+        {
+            "value": "Haydens Point",
+            "label": "H"
+        },
+        {
+            "value": "Hayes Brook",
+            "label": "H"
+        },
+        {
+            "value": "Hazel Grove",
+            "label": "H"
+        },
+        {
+            "value": "Hazelbrook",
+            "label": "H"
+        },
+        {
+            "value": "Hazelbrook",
+            "label": "H"
+        },
+        {
+            "value": "Hazelgrove",
+            "label": "H"
+        },
+        {
+            "value": "Head of Cardigan",
+            "label": "H"
+        },
+        {
+            "value": "Head of Hillsborough",
+            "label": "H"
+        },
+        {
+            "value": "Head of Montague",
+            "label": "H"
+        },
+        {
+            "value": "Heartz Shore",
+            "label": "H"
+        },
+        {
+            "value": "Heatherdale",
+            "label": "H"
+        },
+        {
+            "value": "Heatherdale Pond",
+            "label": "H"
+        },
+        {
+            "value": "Hebron",
+            "label": "H"
+        },
+        {
+            "value": "Henrys Pond",
+            "label": "H"
+        },
+        {
+            "value": "Hermanville",
+            "label": "H"
+        },
+        {
+            "value": "Hermitage",
+            "label": "H"
+        },
+        {
+            "value": "Hermitage Creek",
+            "label": "H"
+        },
+        {
+            "value": "Herring Island",
+            "label": "H"
+        },
+        {
+            "value": "Hicken Point",
+            "label": "H"
+        },
+        {
+            "value": "Higgins Road",
+            "label": "H"
+        },
+        {
+            "value": "Higgins Wharf",
+            "label": "H"
+        },
+        {
+            "value": "Higgins Wharf Provincial Park",
+            "label": "H"
+        },
+        {
+            "value": "High Bank",
+            "label": "H"
+        },
+        {
+            "value": "Highfield",
+            "label": "H"
+        },
+        {
+            "value": "Hills River",
+            "label": "H"
+        },
+        {
+            "value": "Hillsborough Bay",
+            "label": "H"
+        },
+        {
+            "value": "Hillsborough Park",
+            "label": "H"
+        },
+        {
+            "value": "Hillsborough River",
+            "label": "H"
+        },
+        {
+            "value": "Hog Island",
+            "label": "H"
+        },
+        {
+            "value": "Hog Island Basin",
+            "label": "H"
+        },
+        {
+            "value": "Holland Cove",
+            "label": "H"
+        },
+        {
+            "value": "Hollow River",
+            "label": "H"
+        },
+        {
+            "value": "Holman Island",
+            "label": "H"
+        },
+        {
+            "value": "Holms Pond",
+            "label": "H"
+        },
+        {
+            "value": "Hope River",
+            "label": "H"
+        },
+        {
+            "value": "Hope River",
+            "label": "H"
+        },
+        {
+            "value": "Hopefield",
+            "label": "H"
+        },
+        {
+            "value": "Hornes Creek",
+            "label": "H"
+        },
+        {
+            "value": "Hornes Creek",
+            "label": "H"
+        },
+        {
+            "value": "Hornes Point",
+            "label": "H"
+        },
+        {
+            "value": "Horse Head",
+            "label": "H"
+        },
+        {
+            "value": "Horseshoe Shoals",
+            "label": "H"
+        },
+        {
+            "value": "Howards Cove",
+            "label": "H"
+        },
+        {
+            "value": "Howards Creek",
+            "label": "H"
+        },
+        {
+            "value": "Howe Bay",
+            "label": "H"
+        },
+        {
+            "value": "Howe Bay",
+            "label": "H"
+        },
+        {
+            "value": "Howe Point",
+            "label": "H"
+        },
+        {
+            "value": "Howells Brook",
+            "label": "H"
+        },
+        {
+            "value": "Howlan",
+            "label": "H"
+        },
+        {
+            "value": "Hunter River",
+            "label": "H"
+        },
+        {
+            "value": "Hunter River",
+            "label": "H"
+        },
+        {
+            "value": "Hunter River",
+            "label": "H"
+        },
+        {
+            "value": "Hunters Creek",
+            "label": "H"
+        },
+        {
+            "value": "Hunters Pond",
+            "label": "H"
+        },
+        {
+            "value": "Huntley",
+            "label": "H"
+        },
+        {
+            "value": "Huntley River",
+            "label": "H"
+        },
+        {
+            "value": "Huntley Rock",
+            "label": "H"
+        },
+        {
+            "value": "Hurd Point",
+            "label": "H"
+        },
+        {
+            "value": "Hydes Cove",
+            "label": "H"
+        },
+        {
+            "value": "Hydes Point",
+            "label": "H"
+        },
+        {
+            "value": "Hydes Pond",
+            "label": "H"
+        },
+        {
+            "value": "Indian Creek",
+            "label": "I"
+        },
+        {
+            "value": "Indian Marsh",
+            "label": "I"
+        },
+        {
+            "value": "Indian Point",
+            "label": "I"
+        },
+        {
+            "value": "Indian Point Sand Hills",
+            "label": "I"
+        },
+        {
+            "value": "Indian River",
+            "label": "I"
+        },
+        {
+            "value": "Indian River",
+            "label": "I"
+        },
+        {
+            "value": "Indian River Pond",
+            "label": "I"
+        },
+        {
+            "value": "Indian Rocks",
+            "label": "I"
+        },
+        {
+            "value": "Indian Spit",
+            "label": "I"
+        },
+        {
+            "value": "Ings Pond",
+            "label": "I"
+        },
+        {
+            "value": "Inkerman",
+            "label": "I"
+        },
+        {
+            "value": "Inman Creek",
+            "label": "I"
+        },
+        {
+            "value": "Inman Reef",
+            "label": "I"
+        },
+        {
+            "value": "Inman Rock",
+            "label": "I"
+        },
+        {
+            "value": "Inverness",
+            "label": "I"
+        },
+        {
+            "value": "Iona",
+            "label": "I"
+        },
+        {
+            "value": "Iris",
+            "label": "I"
+        },
+        {
+            "value": "Irishtown",
+            "label": "I"
+        },
+        {
+            "value": "Iron Rock",
+            "label": "I"
+        },
+        {
+            "value": "Irvings Bar",
+            "label": "I"
+        },
+        {
+            "value": "Irvings Cape",
+            "label": "I"
+        },
+        {
+            "value": "Ives Point",
+            "label": "I"
+        },
+        {
+            "value": "Ives Pond",
+            "label": "I"
+        },
+        {
+            "value": "Jacques Cartier Provincial Park",
+            "label": "J"
+        },
+        {
+            "value": "Jacques River",
+            "label": "J"
+        },
+        {
+            "value": "Jardines Bay",
+            "label": "J"
+        },
+        {
+            "value": "Jardines Point",
+            "label": "J"
+        },
+        {
+            "value": "Jenkins Pond",
+            "label": "J"
+        },
+        {
+            "value": "Jenkins Ponds",
+            "label": "J"
+        },
+        {
+            "value": "Jennys Point",
+            "label": "J"
+        },
+        {
+            "value": "Jerrys Rock",
+            "label": "J"
+        },
+        {
+            "value": "Jimmy Angus Cove",
+            "label": "J"
+        },
+        {
+            "value": "Jimmys Point",
+            "label": "J"
+        },
+        {
+            "value": "Jobs Point",
+            "label": "J"
+        },
+        {
+            "value": "Johnny Belinda Pond",
+            "label": "J"
+        },
+        {
+            "value": "Johnstons Pond",
+            "label": "J"
+        },
+        {
+            "value": "Johnstons River",
+            "label": "J"
+        },
+        {
+            "value": "Johnstons River",
+            "label": "J"
+        },
+        {
+            "value": "Jones Hill",
+            "label": "J"
+        },
+        {
+            "value": "Jordans Pond",
+            "label": "J"
+        },
+        {
+            "value": "Jordans Pond",
+            "label": "J"
+        },
+        {
+            "value": "Josephine Shore",
+            "label": "J"
+        },
+        {
+            "value": "Judes Point",
+            "label": "J"
+        },
+        {
+            "value": "Judes Point",
+            "label": "J"
+        },
+        {
+            "value": "Judson Island",
+            "label": "J"
+        },
+        {
+            "value": "Keefes Point",
+            "label": "K"
+        },
+        {
+            "value": "Keirs Shore",
+            "label": "K"
+        },
+        {
+            "value": "Kelly Road",
+            "label": "K"
+        },
+        {
+            "value": "Kellys Cove",
+            "label": "K"
+        },
+        {
+            "value": "Kellys Cross",
+            "label": "K"
+        },
+        {
+            "value": "Kellys Point",
+            "label": "K"
+        },
+        {
+            "value": "Kellys Point",
+            "label": "K"
+        },
+        {
+            "value": "Kelvin",
+            "label": "K"
+        },
+        {
+            "value": "Kelvin Grove",
+            "label": "K"
+        },
+        {
+            "value": "Kensington",
+            "label": "K"
+        },
+        {
+            "value": "Kensington Point",
+            "label": "K"
+        },
+        {
+            "value": "Keppoch",
+            "label": "K"
+        },
+        {
+            "value": "Keppoch Beach",
+            "label": "K"
+        },
+        {
+            "value": "Kildare Capes",
+            "label": "K"
+        },
+        {
+            "value": "Kildare Capes",
+            "label": "K"
+        },
+        {
+            "value": "Kildare Point",
+            "label": "K"
+        },
+        {
+            "value": "Kildare River",
+            "label": "K"
+        },
+        {
+            "value": "Kilmuir",
+            "label": "K"
+        },
+        {
+            "value": "Kings",
+            "label": "K"
+        },
+        {
+            "value": "Kingsboro",
+            "label": "K"
+        },
+        {
+            "value": "Kingston",
+            "label": "K"
+        },
+        {
+            "value": "Kingston",
+            "label": "K"
+        },
+        {
+            "value": "Kinkora",
+            "label": "K"
+        },
+        {
+            "value": "Kinkora",
+            "label": "K"
+        },
+        {
+            "value": "Kinlock",
+            "label": "K"
+        },
+        {
+            "value": "Kinross",
+            "label": "K"
+        },
+        {
+            "value": "Kirbys Point",
+            "label": "K"
+        },
+        {
+            "value": "Knight Point",
+            "label": "K"
+        },
+        {
+            "value": "Knoll Shoal",
+            "label": "K"
+        },
+        {
+            "value": "Knox Pond",
+            "label": "K"
+        },
+        {
+            "value": "Knutsford",
+            "label": "K"
+        },
+        {
+            "value": "L.M. Montgomery's Cavendish National Historic Site of Canada",
+            "label": "L"
+        },
+        {
+            "value": "Lady Fane",
+            "label": "L"
+        },
+        {
+            "value": "Lady Slipper",
+            "label": "L"
+        },
+        {
+            "value": "Lake Aberdeen",
+            "label": "L"
+        },
+        {
+            "value": "Lake Verde",
+            "label": "L"
+        },
+        {
+            "value": "Lake Verde",
+            "label": "L"
+        },
+        {
+            "value": "Lake of Shining Waters",
+            "label": "L"
+        },
+        {
+            "value": "Lakeville",
+            "label": "L"
+        },
+        {
+            "value": "Landrys Point",
+            "label": "L"
+        },
+        {
+            "value": "Langley Beach",
+            "label": "L"
+        },
+        {
+            "value": "Larkins Pond",
+            "label": "L"
+        },
+        {
+            "value": "Launching Bay",
+            "label": "L"
+        },
+        {
+            "value": "Launching Place",
+            "label": "L"
+        },
+        {
+            "value": "Launching Point",
+            "label": "L"
+        },
+        {
+            "value": "Launching Pond",
+            "label": "L"
+        },
+        {
+            "value": "Lauretta",
+            "label": "L"
+        },
+        {
+            "value": "Lawtons Hill",
+            "label": "L"
+        },
+        {
+            "value": "Leards Mill",
+            "label": "L"
+        },
+        {
+            "value": "Leards Pond",
+            "label": "L"
+        },
+        {
+            "value": "Leards Pond",
+            "label": "L"
+        },
+        {
+            "value": "Leards Pond",
+            "label": "L"
+        },
+        {
+            "value": "Leards Pond",
+            "label": "L"
+        },
+        {
+            "value": "Leards Pond",
+            "label": "L"
+        },
+        {
+            "value": "Leckys Point",
+            "label": "L"
+        },
+        {
+            "value": "Leckys Pond",
+            "label": "L"
+        },
+        {
+            "value": "Leech Pond",
+            "label": "L"
+        },
+        {
+            "value": "Lennox Channel",
+            "label": "L"
+        },
+        {
+            "value": "Lennox Island",
+            "label": "L"
+        },
+        {
+            "value": "Lennox Island",
+            "label": "L"
+        },
+        {
+            "value": "Lennox Island 1",
+            "label": "L"
+        },
+        {
+            "value": "Lennox Island 5",
+            "label": "L"
+        },
+        {
+            "value": "Lennox Island 6",
+            "label": "L"
+        },
+        {
+            "value": "Leoville",
+            "label": "L"
+        },
+        {
+            "value": "Leslies Pond",
+            "label": "L"
+        },
+        {
+            "value": "Lewes",
+            "label": "L"
+        },
+        {
+            "value": "Lewis Point",
+            "label": "L"
+        },
+        {
+            "value": "Lewis Point",
+            "label": "L"
+        },
+        {
+            "value": "Lewis Pond",
+            "label": "L"
+        },
+        {
+            "value": "Lieu historique national du Canada Ardgowan",
+            "label": "L"
+        },
+        {
+            "value": "Lieu historique national du Canada Dalvay-by-the-Sea",
+            "label": "L"
+        },
+        {
+            "value": "Lieu historique national du Canada Province House",
+            "label": "L"
+        },
+        {
+            "value": "Lieu historique national du Canada de Port-la-Joye–Fort-Amherst",
+            "label": "L"
+        },
+        {
+            "value": "Lieu historique national du Canada du Cavendish-de-L.-M.-Montgomery",
+            "label": "L"
+        },
+        {
+            "value": "Linkletter",
+            "label": "L"
+        },
+        {
+            "value": "Linkletter Creek",
+            "label": "L"
+        },
+        {
+            "value": "Linkletter Provincial Park",
+            "label": "L"
+        },
+        {
+            "value": "Linkletter Shore",
+            "label": "L"
+        },
+        {
+            "value": "Little Basin",
+            "label": "L"
+        },
+        {
+            "value": "Little Courtin Island",
+            "label": "L"
+        },
+        {
+            "value": "Little Duck Creek",
+            "label": "L"
+        },
+        {
+            "value": "Little Dutchman Rock",
+            "label": "L"
+        },
+        {
+            "value": "Little Harbour",
+            "label": "L"
+        },
+        {
+            "value": "Little Harbour",
+            "label": "L"
+        },
+        {
+            "value": "Little Harbour Pond",
+            "label": "L"
+        },
+        {
+            "value": "Little Marsh",
+            "label": "L"
+        },
+        {
+            "value": "Little Miminegash Pond",
+            "label": "L"
+        },
+        {
+            "value": "Little Pierre Jacques River",
+            "label": "L"
+        },
+        {
+            "value": "Little Pond",
+            "label": "L"
+        },
+        {
+            "value": "Little Pond",
+            "label": "L"
+        },
+        {
+            "value": "Little River",
+            "label": "L"
+        },
+        {
+            "value": "Little Rock",
+            "label": "L"
+        },
+        {
+            "value": "Little Sands",
+            "label": "L"
+        },
+        {
+            "value": "Little Sands",
+            "label": "L"
+        },
+        {
+            "value": "Little Tignish River",
+            "label": "L"
+        },
+        {
+            "value": "Little Tignish Run",
+            "label": "L"
+        },
+        {
+            "value": "Little Trout River",
+            "label": "L"
+        },
+        {
+            "value": "Little York",
+            "label": "L"
+        },
+        {
+            "value": "Llewellyns Creek",
+            "label": "L"
+        },
+        {
+            "value": "Lobster Point",
+            "label": "L"
+        },
+        {
+            "value": "Lobster Point",
+            "label": "L"
+        },
+        {
+            "value": "Locke Road",
+            "label": "L"
+        },
+        {
+            "value": "Lockes Point",
+            "label": "L"
+        },
+        {
+            "value": "Log Cove",
+            "label": "L"
+        },
+        {
+            "value": "Log Cove Creek",
+            "label": "L"
+        },
+        {
+            "value": "Long Creek",
+            "label": "L"
+        },
+        {
+            "value": "Long Creek",
+            "label": "L"
+        },
+        {
+            "value": "Long Creek",
+            "label": "L"
+        },
+        {
+            "value": "Long Creek",
+            "label": "L"
+        },
+        {
+            "value": "Long Pond",
+            "label": "L"
+        },
+        {
+            "value": "Long Pond",
+            "label": "L"
+        },
+        {
+            "value": "Long River",
+            "label": "L"
+        },
+        {
+            "value": "Long River",
+            "label": "L"
+        },
+        {
+            "value": "Long Swamp",
+            "label": "L"
+        },
+        {
+            "value": "Lord Selkirk Provincial Park",
+            "label": "L"
+        },
+        {
+            "value": "Lords Pond",
+            "label": "L"
+        },
+        {
+            "value": "Lorne Valley",
+            "label": "L"
+        },
+        {
+            "value": "Lorne Valley",
+            "label": "L"
+        },
+        {
+            "value": "Lot 1",
+            "label": "L"
+        },
+        {
+            "value": "Lot 10",
+            "label": "L"
+        },
+        {
+            "value": "Lot 11",
+            "label": "L"
+        },
+        {
+            "value": "Lot 11 and Area",
+            "label": "L"
+        },
+        {
+            "value": "Lot 12",
+            "label": "L"
+        },
+        {
+            "value": "Lot 13",
+            "label": "L"
+        },
+        {
+            "value": "Lot 14",
+            "label": "L"
+        },
+        {
+            "value": "Lot 15",
+            "label": "L"
+        },
+        {
+            "value": "Lot 16",
+            "label": "L"
+        },
+        {
+            "value": "Lot 17",
+            "label": "L"
+        },
+        {
+            "value": "Lot 18",
+            "label": "L"
+        },
+        {
+            "value": "Lot 19",
+            "label": "L"
+        },
+        {
+            "value": "Lot 2",
+            "label": "L"
+        },
+        {
+            "value": "Lot 20",
+            "label": "L"
+        },
+        {
+            "value": "Lot 21",
+            "label": "L"
+        },
+        {
+            "value": "Lot 22",
+            "label": "L"
+        },
+        {
+            "value": "Lot 23",
+            "label": "L"
+        },
+        {
+            "value": "Lot 24",
+            "label": "L"
+        },
+        {
+            "value": "Lot 25",
+            "label": "L"
+        },
+        {
+            "value": "Lot 26",
+            "label": "L"
+        },
+        {
+            "value": "Lot 27",
+            "label": "L"
+        },
+        {
+            "value": "Lot 28",
+            "label": "L"
+        },
+        {
+            "value": "Lot 29",
+            "label": "L"
+        },
+        {
+            "value": "Lot 3",
+            "label": "L"
+        },
+        {
+            "value": "Lot 30",
+            "label": "L"
+        },
+        {
+            "value": "Lot 31",
+            "label": "L"
+        },
+        {
+            "value": "Lot 32",
+            "label": "L"
+        },
+        {
+            "value": "Lot 33",
+            "label": "L"
+        },
+        {
+            "value": "Lot 34",
+            "label": "L"
+        },
+        {
+            "value": "Lot 35",
+            "label": "L"
+        },
+        {
+            "value": "Lot 36",
+            "label": "L"
+        },
+        {
+            "value": "Lot 37",
+            "label": "L"
+        },
+        {
+            "value": "Lot 38",
+            "label": "L"
+        },
+        {
+            "value": "Lot 39",
+            "label": "L"
+        },
+        {
+            "value": "Lot 4",
+            "label": "L"
+        },
+        {
+            "value": "Lot 40",
+            "label": "L"
+        },
+        {
+            "value": "Lot 41",
+            "label": "L"
+        },
+        {
+            "value": "Lot 42",
+            "label": "L"
+        },
+        {
+            "value": "Lot 43",
+            "label": "L"
+        },
+        {
+            "value": "Lot 44",
+            "label": "L"
+        },
+        {
+            "value": "Lot 45",
+            "label": "L"
+        },
+        {
+            "value": "Lot 46",
+            "label": "L"
+        },
+        {
+            "value": "Lot 47",
+            "label": "L"
+        },
+        {
+            "value": "Lot 48",
+            "label": "L"
+        },
+        {
+            "value": "Lot 49",
+            "label": "L"
+        },
+        {
+            "value": "Lot 5",
+            "label": "L"
+        },
+        {
+            "value": "Lot 50",
+            "label": "L"
+        },
+        {
+            "value": "Lot 51",
+            "label": "L"
+        },
+        {
+            "value": "Lot 52",
+            "label": "L"
+        },
+        {
+            "value": "Lot 53",
+            "label": "L"
+        },
+        {
+            "value": "Lot 54",
+            "label": "L"
+        },
+        {
+            "value": "Lot 55",
+            "label": "L"
+        },
+        {
+            "value": "Lot 56",
+            "label": "L"
+        },
+        {
+            "value": "Lot 57",
+            "label": "L"
+        },
+        {
+            "value": "Lot 58",
+            "label": "L"
+        },
+        {
+            "value": "Lot 59",
+            "label": "L"
+        },
+        {
+            "value": "Lot 6",
+            "label": "L"
+        },
+        {
+            "value": "Lot 6 Point",
+            "label": "L"
+        },
+        {
+            "value": "Lot 60",
+            "label": "L"
+        },
+        {
+            "value": "Lot 61",
+            "label": "L"
+        },
+        {
+            "value": "Lot 62",
+            "label": "L"
+        },
+        {
+            "value": "Lot 63",
+            "label": "L"
+        },
+        {
+            "value": "Lot 64",
+            "label": "L"
+        },
+        {
+            "value": "Lot 65",
+            "label": "L"
+        },
+        {
+            "value": "Lot 66",
+            "label": "L"
+        },
+        {
+            "value": "Lot 67",
+            "label": "L"
+        },
+        {
+            "value": "Lot 7",
+            "label": "L"
+        },
+        {
+            "value": "Lot 8",
+            "label": "L"
+        },
+        {
+            "value": "Lot 9",
+            "label": "L"
+        },
+        {
+            "value": "Low Point",
+            "label": "L"
+        },
+        {
+            "value": "Lower Bedeque",
+            "label": "L"
+        },
+        {
+            "value": "Lower Darnley",
+            "label": "L"
+        },
+        {
+            "value": "Lower Freetown",
+            "label": "L"
+        },
+        {
+            "value": "Lower Hamilton",
+            "label": "L"
+        },
+        {
+            "value": "Lower Malpeque",
+            "label": "L"
+        },
+        {
+            "value": "Lower Montague",
+            "label": "L"
+        },
+        {
+            "value": "Lower Montague",
+            "label": "L"
+        },
+        {
+            "value": "Lower New Annan",
+            "label": "L"
+        },
+        {
+            "value": "Lower Newtown",
+            "label": "L"
+        },
+        {
+            "value": "Lower Rollo Bay",
+            "label": "L"
+        },
+        {
+            "value": "Lower Simpsons Pond",
+            "label": "L"
+        },
+        {
+            "value": "Lower Tryon",
+            "label": "L"
+        },
+        {
+            "value": "Lowes Creek",
+            "label": "L"
+        },
+        {
+            "value": "Loyalist",
+            "label": "L"
+        },
+        {
+            "value": "Lukes Creek",
+            "label": "L"
+        },
+        {
+            "value": "Lyndale",
+            "label": "L"
+        },
+        {
+            "value": "Mabey Creek",
+            "label": "M"
+        },
+        {
+            "value": "MacArthurs Creek",
+            "label": "M"
+        },
+        {
+            "value": "MacArthurs Creek",
+            "label": "M"
+        },
+        {
+            "value": "MacAulays Creek",
+            "label": "M"
+        },
+        {
+            "value": "MacAulays Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacAuslands Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacCallums Point",
+            "label": "M"
+        },
+        {
+            "value": "MacDonalds Cove",
+            "label": "M"
+        },
+        {
+            "value": "MacDonalds Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacDonalds Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacDonalds Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacDonalds Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacDonalds River",
+            "label": "M"
+        },
+        {
+            "value": "MacDougall",
+            "label": "M"
+        },
+        {
+            "value": "MacDougalls Cove",
+            "label": "M"
+        },
+        {
+            "value": "MacDougalls Creek",
+            "label": "M"
+        },
+        {
+            "value": "MacEacherns Creek",
+            "label": "M"
+        },
+        {
+            "value": "MacEacherns Lake",
+            "label": "M"
+        },
+        {
+            "value": "MacEwens Creek",
+            "label": "M"
+        },
+        {
+            "value": "MacEwens Creek",
+            "label": "M"
+        },
+        {
+            "value": "MacEwens Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacFaydens Creek",
+            "label": "M"
+        },
+        {
+            "value": "MacGregors Creek",
+            "label": "M"
+        },
+        {
+            "value": "MacHerrons Creek",
+            "label": "M"
+        },
+        {
+            "value": "MacInnis Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacIntosh Shore",
+            "label": "M"
+        },
+        {
+            "value": "MacIntyres Creek",
+            "label": "M"
+        },
+        {
+            "value": "MacIntyres Creek",
+            "label": "M"
+        },
+        {
+            "value": "MacIvors Point",
+            "label": "M"
+        },
+        {
+            "value": "MacKays Point",
+            "label": "M"
+        },
+        {
+            "value": "MacKenzie Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacKeys Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacKinnons Creek",
+            "label": "M"
+        },
+        {
+            "value": "MacKinnons Point",
+            "label": "M"
+        },
+        {
+            "value": "MacKinnons Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacLaughlins Creek",
+            "label": "M"
+        },
+        {
+            "value": "MacLaurins Cove",
+            "label": "M"
+        },
+        {
+            "value": "MacLaurins Creek",
+            "label": "M"
+        },
+        {
+            "value": "MacLeans Brook",
+            "label": "M"
+        },
+        {
+            "value": "MacLeans Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacLeans Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacLeods Creek",
+            "label": "M"
+        },
+        {
+            "value": "MacLeods Creek",
+            "label": "M"
+        },
+        {
+            "value": "MacLeods Island",
+            "label": "M"
+        },
+        {
+            "value": "MacLeods Point",
+            "label": "M"
+        },
+        {
+            "value": "MacLeods Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacLeods Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacLures Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacLures Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacMillans Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacNeills Point",
+            "label": "M"
+        },
+        {
+            "value": "MacNeills Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacNeills Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacPhails Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacPhee Beach",
+            "label": "M"
+        },
+        {
+            "value": "MacPhee Shoal",
+            "label": "M"
+        },
+        {
+            "value": "MacPhees Point",
+            "label": "M"
+        },
+        {
+            "value": "MacPhees Shore",
+            "label": "M"
+        },
+        {
+            "value": "MacPhersons Cove",
+            "label": "M"
+        },
+        {
+            "value": "MacPhersons Creek",
+            "label": "M"
+        },
+        {
+            "value": "MacPhersons Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacPhersons Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacVanes Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacWilliams Brook",
+            "label": "M"
+        },
+        {
+            "value": "MacWilliams Cove",
+            "label": "M"
+        },
+        {
+            "value": "MacWilliams Pond",
+            "label": "M"
+        },
+        {
+            "value": "MacWilliams Shore",
+            "label": "M"
+        },
+        {
+            "value": "Machons Point",
+            "label": "M"
+        },
+        {
+            "value": "Maitland Flat",
+            "label": "M"
+        },
+        {
+            "value": "Malletts Pond",
+            "label": "M"
+        },
+        {
+            "value": "Malpeque",
+            "label": "M"
+        },
+        {
+            "value": "Malpeque Bay",
+            "label": "M"
+        },
+        {
+            "value": "Malpeque Bay",
+            "label": "M"
+        },
+        {
+            "value": "Malpeque Harbour",
+            "label": "M"
+        },
+        {
+            "value": "Malpeque Sand Hills",
+            "label": "M"
+        },
+        {
+            "value": "Mandersons Cove",
+            "label": "M"
+        },
+        {
+            "value": "Maple Hill",
+            "label": "M"
+        },
+        {
+            "value": "Maple Plains",
+            "label": "M"
+        },
+        {
+            "value": "Maplewood",
+            "label": "M"
+        },
+        {
+            "value": "March Water",
+            "label": "M"
+        },
+        {
+            "value": "Marchbanks Pond",
+            "label": "M"
+        },
+        {
+            "value": "Margate",
+            "label": "M"
+        },
+        {
+            "value": "Marie",
+            "label": "M"
+        },
+        {
+            "value": "Marie River",
+            "label": "M"
+        },
+        {
+            "value": "Marsh Point",
+            "label": "M"
+        },
+        {
+            "value": "Marsh Point",
+            "label": "M"
+        },
+        {
+            "value": "Marshalls Pond",
+            "label": "M"
+        },
+        {
+            "value": "Marshfield",
+            "label": "M"
+        },
+        {
+            "value": "Martins Creek",
+            "label": "M"
+        },
+        {
+            "value": "Martins Pond",
+            "label": "M"
+        },
+        {
+            "value": "Martinvale",
+            "label": "M"
+        },
+        {
+            "value": "Mary Fraser Island",
+            "label": "M"
+        },
+        {
+            "value": "Mary River",
+            "label": "M"
+        },
+        {
+            "value": "Mathesons Pond",
+            "label": "M"
+        },
+        {
+            "value": "Matters Pond",
+            "label": "M"
+        },
+        {
+            "value": "Maximeville",
+            "label": "M"
+        },
+        {
+            "value": "Mayfield",
+            "label": "M"
+        },
+        {
+            "value": "McAllisters Point",
+            "label": "M"
+        },
+        {
+            "value": "McAskill River",
+            "label": "M"
+        },
+        {
+            "value": "McCallum Creek",
+            "label": "M"
+        },
+        {
+            "value": "McDonald Point",
+            "label": "M"
+        },
+        {
+            "value": "McEwens Creek",
+            "label": "M"
+        },
+        {
+            "value": "McEwens Island",
+            "label": "M"
+        },
+        {
+            "value": "McFarlane Cove",
+            "label": "M"
+        },
+        {
+            "value": "McInnis Point",
+            "label": "M"
+        },
+        {
+            "value": "McInnis Point",
+            "label": "M"
+        },
+        {
+            "value": "McIntyres Pond",
+            "label": "M"
+        },
+        {
+            "value": "McIsaac Cape",
+            "label": "M"
+        },
+        {
+            "value": "McKays Pond",
+            "label": "M"
+        },
+        {
+            "value": "McKies Creek",
+            "label": "M"
+        },
+        {
+            "value": "McKies Shore",
+            "label": "M"
+        },
+        {
+            "value": "McKinnon Point",
+            "label": "M"
+        },
+        {
+            "value": "McMillan Point",
+            "label": "M"
+        },
+        {
+            "value": "McMillans Pond",
+            "label": "M"
+        },
+        {
+            "value": "McNallys Point",
+            "label": "M"
+        },
+        {
+            "value": "McNeills Mills",
+            "label": "M"
+        },
+        {
+            "value": "McNeills Point",
+            "label": "M"
+        },
+        {
+            "value": "McPhee Creek",
+            "label": "M"
+        },
+        {
+            "value": "McVarishs Pond",
+            "label": "M"
+        },
+        {
+            "value": "Meadow Bank",
+            "label": "M"
+        },
+        {
+            "value": "Meadowbank",
+            "label": "M"
+        },
+        {
+            "value": "Meadowfoot Point",
+            "label": "M"
+        },
+        {
+            "value": "Meggisons Creek",
+            "label": "M"
+        },
+        {
+            "value": "Mellishs Pond",
+            "label": "M"
+        },
+        {
+            "value": "Melville",
+            "label": "M"
+        },
+        {
+            "value": "Mermaid",
+            "label": "M"
+        },
+        {
+            "value": "Mermaid Cove",
+            "label": "M"
+        },
+        {
+            "value": "Middle Creek",
+            "label": "M"
+        },
+        {
+            "value": "Middle Ground",
+            "label": "M"
+        },
+        {
+            "value": "Middle Ground",
+            "label": "M"
+        },
+        {
+            "value": "Middleton",
+            "label": "M"
+        },
+        {
+            "value": "Middleton Pond",
+            "label": "M"
+        },
+        {
+            "value": "Midgell",
+            "label": "M"
+        },
+        {
+            "value": "Midgell River",
+            "label": "M"
+        },
+        {
+            "value": "Milburn",
+            "label": "M"
+        },
+        {
+            "value": "Milburn",
+            "label": "M"
+        },
+        {
+            "value": "Mill Brook",
+            "label": "M"
+        },
+        {
+            "value": "Mill Creek",
+            "label": "M"
+        },
+        {
+            "value": "Mill Creek",
+            "label": "M"
+        },
+        {
+            "value": "Mill Creek",
+            "label": "M"
+        },
+        {
+            "value": "Mill Creek",
+            "label": "M"
+        },
+        {
+            "value": "Mill Creek",
+            "label": "M"
+        },
+        {
+            "value": "Mill River",
+            "label": "M"
+        },
+        {
+            "value": "Mill River East",
+            "label": "M"
+        },
+        {
+            "value": "Mill River Provincial Park",
+            "label": "M"
+        },
+        {
+            "value": "Mill Road",
+            "label": "M"
+        },
+        {
+            "value": "Mill Valley",
+            "label": "M"
+        },
+        {
+            "value": "Millcove",
+            "label": "M"
+        },
+        {
+            "value": "Millers Creek",
+            "label": "M"
+        },
+        {
+            "value": "Milligans Pond",
+            "label": "M"
+        },
+        {
+            "value": "Milligans Wharf",
+            "label": "M"
+        },
+        {
+            "value": "Mills Point",
+            "label": "M"
+        },
+        {
+            "value": "Mills Point",
+            "label": "M"
+        },
+        {
+            "value": "Milltown Cross",
+            "label": "M"
+        },
+        {
+            "value": "Millvale",
+            "label": "M"
+        },
+        {
+            "value": "Millview",
+            "label": "M"
+        },
+        {
+            "value": "Milne Bank",
+            "label": "M"
+        },
+        {
+            "value": "Milo",
+            "label": "M"
+        },
+        {
+            "value": "Milton Station",
+            "label": "M"
+        },
+        {
+            "value": "Miltonvale Park",
+            "label": "M"
+        },
+        {
+            "value": "Miminegash",
+            "label": "M"
+        },
+        {
+            "value": "Miminegash Harbour",
+            "label": "M"
+        },
+        {
+            "value": "Miminegash Pond",
+            "label": "M"
+        },
+        {
+            "value": "Miminegash Reef",
+            "label": "M"
+        },
+        {
+            "value": "Miminegash River",
+            "label": "M"
+        },
+        {
+            "value": "Miminegash Run",
+            "label": "M"
+        },
+        {
+            "value": "Mink River",
+            "label": "M"
+        },
+        {
+            "value": "Miscouche",
+            "label": "M"
+        },
+        {
+            "value": "Miscouche Bank",
+            "label": "M"
+        },
+        {
+            "value": "Miscouche Cove",
+            "label": "M"
+        },
+        {
+            "value": "Mitchell River",
+            "label": "M"
+        },
+        {
+            "value": "Mont-Carmel",
+            "label": "M"
+        },
+        {
+            "value": "Montague",
+            "label": "M"
+        },
+        {
+            "value": "Montague Junction",
+            "label": "M"
+        },
+        {
+            "value": "Montague River",
+            "label": "M"
+        },
+        {
+            "value": "Monticello",
+            "label": "M"
+        },
+        {
+            "value": "Montrose",
+            "label": "M"
+        },
+        {
+            "value": "Montrose River",
+            "label": "M"
+        },
+        {
+            "value": "Mooneys Pond",
+            "label": "M"
+        },
+        {
+            "value": "Moores Hill",
+            "label": "M"
+        },
+        {
+            "value": "Moores Point",
+            "label": "M"
+        },
+        {
+            "value": "Moores Point",
+            "label": "M"
+        },
+        {
+            "value": "Moores Pond",
+            "label": "M"
+        },
+        {
+            "value": "Moores Sanctuary Ponds",
+            "label": "M"
+        },
+        {
+            "value": "Morell",
+            "label": "M"
+        },
+        {
+            "value": "Morell 2",
+            "label": "M"
+        },
+        {
+            "value": "Morell East",
+            "label": "M"
+        },
+        {
+            "value": "Morell River",
+            "label": "M"
+        },
+        {
+            "value": "Morrison Beach",
+            "label": "M"
+        },
+        {
+            "value": "Morrison Pond",
+            "label": "M"
+        },
+        {
+            "value": "Morrisons Pond",
+            "label": "M"
+        },
+        {
+            "value": "Mosquito Creek",
+            "label": "M"
+        },
+        {
+            "value": "Mosquito Sands",
+            "label": "M"
+        },
+        {
+            "value": "Moss Lake",
+            "label": "M"
+        },
+        {
+            "value": "Mossy Point",
+            "label": "M"
+        },
+        {
+            "value": "Mount Albion",
+            "label": "M"
+        },
+        {
+            "value": "Mount Buchanan",
+            "label": "M"
+        },
+        {
+            "value": "Mount Herbert",
+            "label": "M"
+        },
+        {
+            "value": "Mount Hope",
+            "label": "M"
+        },
+        {
+            "value": "Mount Mellick",
+            "label": "M"
+        },
+        {
+            "value": "Mount Pleasant",
+            "label": "M"
+        },
+        {
+            "value": "Mount Royal",
+            "label": "M"
+        },
+        {
+            "value": "Mount Ryan Hill",
+            "label": "M"
+        },
+        {
+            "value": "Mount Stewart",
+            "label": "M"
+        },
+        {
+            "value": "Mount Tryon",
+            "label": "M"
+        },
+        {
+            "value": "Mount Vernon",
+            "label": "M"
+        },
+        {
+            "value": "Muddigger Point",
+            "label": "M"
+        },
+        {
+            "value": "Muddy Creek",
+            "label": "M"
+        },
+        {
+            "value": "Muddy Creek",
+            "label": "M"
+        },
+        {
+            "value": "Munns Point",
+            "label": "M"
+        },
+        {
+            "value": "Munns Pond",
+            "label": "M"
+        },
+        {
+            "value": "Munns Road",
+            "label": "M"
+        },
+        {
+            "value": "Murray Harbour",
+            "label": "M"
+        },
+        {
+            "value": "Murray Harbour",
+            "label": "M"
+        },
+        {
+            "value": "Murray Harbour North",
+            "label": "M"
+        },
+        {
+            "value": "Murray Head",
+            "label": "M"
+        },
+        {
+            "value": "Murray Island",
+            "label": "M"
+        },
+        {
+            "value": "Murray Islands",
+            "label": "M"
+        },
+        {
+            "value": "Murray River",
+            "label": "M"
+        },
+        {
+            "value": "Murray River",
+            "label": "M"
+        },
+        {
+            "value": "Murray Road",
+            "label": "M"
+        },
+        {
+            "value": "Mutchs Point",
+            "label": "M"
+        },
+        {
+            "value": "Nail Head",
+            "label": "N"
+        },
+        {
+            "value": "Nail Pond",
+            "label": "N"
+        },
+        {
+            "value": "Nail Pond",
+            "label": "N"
+        },
+        {
+            "value": "Narrows Creek",
+            "label": "N"
+        },
+        {
+            "value": "Narrows Point",
+            "label": "N"
+        },
+        {
+            "value": "Naufrage",
+            "label": "N"
+        },
+        {
+            "value": "Naufrage Harbour",
+            "label": "N"
+        },
+        {
+            "value": "Naufrage Pond",
+            "label": "N"
+        },
+        {
+            "value": "Naufrage River",
+            "label": "N"
+        },
+        {
+            "value": "Nebraska Creek",
+            "label": "N"
+        },
+        {
+            "value": "New Acadia",
+            "label": "N"
+        },
+        {
+            "value": "New Annan",
+            "label": "N"
+        },
+        {
+            "value": "New Argyle",
+            "label": "N"
+        },
+        {
+            "value": "New Dominion",
+            "label": "N"
+        },
+        {
+            "value": "New Glasgow",
+            "label": "N"
+        },
+        {
+            "value": "New Glasgow Mills",
+            "label": "N"
+        },
+        {
+            "value": "New Harmony",
+            "label": "N"
+        },
+        {
+            "value": "New Haven",
+            "label": "N"
+        },
+        {
+            "value": "New Haven-Riverdale",
+            "label": "N"
+        },
+        {
+            "value": "New London",
+            "label": "N"
+        },
+        {
+            "value": "New London Bay",
+            "label": "N"
+        },
+        {
+            "value": "New Perth",
+            "label": "N"
+        },
+        {
+            "value": "New Zealand",
+            "label": "N"
+        },
+        {
+            "value": "Newport",
+            "label": "N"
+        },
+        {
+            "value": "Newton",
+            "label": "N"
+        },
+        {
+            "value": "Newtown Cross",
+            "label": "N"
+        },
+        {
+            "value": "Newtown River",
+            "label": "N"
+        },
+        {
+            "value": "Nicholson Point",
+            "label": "N"
+        },
+        {
+            "value": "Nicolle Cove",
+            "label": "N"
+        },
+        {
+            "value": "Nicolle Point",
+            "label": "N"
+        },
+        {
+            "value": "Nine Mile Creek",
+            "label": "N"
+        },
+        {
+            "value": "Nine Mile Creek",
+            "label": "N"
+        },
+        {
+            "value": "Noonans Marsh",
+            "label": "N"
+        },
+        {
+            "value": "Norboro",
+            "label": "N"
+        },
+        {
+            "value": "Norris Pond",
+            "label": "N"
+        },
+        {
+            "value": "North Bedeque",
+            "label": "N"
+        },
+        {
+            "value": "North Branch Pinette River",
+            "label": "N"
+        },
+        {
+            "value": "North Brook",
+            "label": "N"
+        },
+        {
+            "value": "North Cape",
+            "label": "N"
+        },
+        {
+            "value": "North Cape Reef",
+            "label": "N"
+        },
+        {
+            "value": "North Carleton",
+            "label": "N"
+        },
+        {
+            "value": "North Enmore",
+            "label": "N"
+        },
+        {
+            "value": "North Lake",
+            "label": "N"
+        },
+        {
+            "value": "North Lake",
+            "label": "N"
+        },
+        {
+            "value": "North Lake Creek",
+            "label": "N"
+        },
+        {
+            "value": "North Lake Harbour",
+            "label": "N"
+        },
+        {
+            "value": "North Milton",
+            "label": "N"
+        },
+        {
+            "value": "North Point",
+            "label": "N"
+        },
+        {
+            "value": "North River",
+            "label": "N"
+        },
+        {
+            "value": "North River",
+            "label": "N"
+        },
+        {
+            "value": "North Rustico",
+            "label": "N"
+        },
+        {
+            "value": "North Rustico Beach",
+            "label": "N"
+        },
+        {
+            "value": "North Rustico Harbour",
+            "label": "N"
+        },
+        {
+            "value": "North Rustico Harbour",
+            "label": "N"
+        },
+        {
+            "value": "North Shore",
+            "label": "N"
+        },
+        {
+            "value": "North St. Eleanors",
+            "label": "N"
+        },
+        {
+            "value": "North Tryon",
+            "label": "N"
+        },
+        {
+            "value": "North Wiltshire",
+            "label": "N"
+        },
+        {
+            "value": "North Wiltshire",
+            "label": "N"
+        },
+        {
+            "value": "North Winsloe",
+            "label": "N"
+        },
+        {
+            "value": "Northam",
+            "label": "N"
+        },
+        {
+            "value": "Northport",
+            "label": "N"
+        },
+        {
+            "value": "Northumberland Provincial Park",
+            "label": "N"
+        },
+        {
+            "value": "Northumberland Strait",
+            "label": "N"
+        },
+        {
+            "value": "Nortons Creek",
+            "label": "N"
+        },
+        {
+            "value": "Norway",
+            "label": "N"
+        },
+        {
+            "value": "O'Keefes Lake",
+            "label": "O"
+        },
+        {
+            "value": "O'Leary",
+            "label": "O"
+        },
+        {
+            "value": "Oar River",
+            "label": "O"
+        },
+        {
+            "value": "Ocean View",
+            "label": "O"
+        },
+        {
+            "value": "Officers Pond",
+            "label": "O"
+        },
+        {
+            "value": "Old Battery Point",
+            "label": "O"
+        },
+        {
+            "value": "Old Ferry Spit",
+            "label": "O"
+        },
+        {
+            "value": "Orby Head",
+            "label": "O"
+        },
+        {
+            "value": "Orwell",
+            "label": "O"
+        },
+        {
+            "value": "Orwell Bay",
+            "label": "O"
+        },
+        {
+            "value": "Orwell Cove",
+            "label": "O"
+        },
+        {
+            "value": "Orwell Cove",
+            "label": "O"
+        },
+        {
+            "value": "Orwell River",
+            "label": "O"
+        },
+        {
+            "value": "Oultons Island",
+            "label": "O"
+        },
+        {
+            "value": "Ox River",
+            "label": "O"
+        },
+        {
+            "value": "Oyster Bed",
+            "label": "O"
+        },
+        {
+            "value": "Oyster Bed Bridge",
+            "label": "O"
+        },
+        {
+            "value": "Oyster Cove",
+            "label": "O"
+        },
+        {
+            "value": "Oyster Point",
+            "label": "O"
+        },
+        {
+            "value": "Oyster Point",
+            "label": "O"
+        },
+        {
+            "value": "Oyster River",
+            "label": "O"
+        },
+        {
+            "value": "Palmer Road",
+            "label": "P"
+        },
+        {
+            "value": "Panmure Head",
+            "label": "P"
+        },
+        {
+            "value": "Panmure Island",
+            "label": "P"
+        },
+        {
+            "value": "Panmure Island",
+            "label": "P"
+        },
+        {
+            "value": "Panmure Island Provincial Park",
+            "label": "P"
+        },
+        {
+            "value": "Panmure Ledge",
+            "label": "P"
+        },
+        {
+            "value": "Panmure Shoal",
+            "label": "P"
+        },
+        {
+            "value": "Panmure Spit",
+            "label": "P"
+        },
+        {
+            "value": "Parc national du Canada de l'Île-du-Prince-Édouard",
+            "label": "P"
+        },
+        {
+            "value": "Park Corner",
+            "label": "P"
+        },
+        {
+            "value": "Parkdale",
+            "label": "P"
+        },
+        {
+            "value": "Parkers Point",
+            "label": "P"
+        },
+        {
+            "value": "Parsons Creek",
+            "label": "P"
+        },
+        {
+            "value": "Paughs Creek",
+            "label": "P"
+        },
+        {
+            "value": "Paynters Creek",
+            "label": "P"
+        },
+        {
+            "value": "Paynters Pond",
+            "label": "P"
+        },
+        {
+            "value": "Peakes",
+            "label": "P"
+        },
+        {
+            "value": "Peakes Road",
+            "label": "P"
+        },
+        {
+            "value": "Pembroke",
+            "label": "P"
+        },
+        {
+            "value": "Penn Point",
+            "label": "P"
+        },
+        {
+            "value": "Penny Point",
+            "label": "P"
+        },
+        {
+            "value": "Percival Bay",
+            "label": "P"
+        },
+        {
+            "value": "Perrys Pond",
+            "label": "P"
+        },
+        {
+            "value": "Peter Creek",
+            "label": "P"
+        },
+        {
+            "value": "Peters Road",
+            "label": "P"
+        },
+        {
+            "value": "Peterville",
+            "label": "P"
+        },
+        {
+            "value": "Petes Creek",
+            "label": "P"
+        },
+        {
+            "value": "Phee Shore",
+            "label": "P"
+        },
+        {
+            "value": "Phelan Point",
+            "label": "P"
+        },
+        {
+            "value": "Pickerings Point",
+            "label": "P"
+        },
+        {
+            "value": "Pigots Creek",
+            "label": "P"
+        },
+        {
+            "value": "Pigots Point",
+            "label": "P"
+        },
+        {
+            "value": "Pigots Pond",
+            "label": "P"
+        },
+        {
+            "value": "Pine Brook",
+            "label": "P"
+        },
+        {
+            "value": "Pinette",
+            "label": "P"
+        },
+        {
+            "value": "Pinette Point",
+            "label": "P"
+        },
+        {
+            "value": "Pinette Provincial Park",
+            "label": "P"
+        },
+        {
+            "value": "Pinette River",
+            "label": "P"
+        },
+        {
+            "value": "Pinette Shoals",
+            "label": "P"
+        },
+        {
+            "value": "Pipers Creek",
+            "label": "P"
+        },
+        {
+            "value": "Pisquid",
+            "label": "P"
+        },
+        {
+            "value": "Pisquid East",
+            "label": "P"
+        },
+        {
+            "value": "Pisquid Pond",
+            "label": "P"
+        },
+        {
+            "value": "Pisquid River",
+            "label": "P"
+        },
+        {
+            "value": "Pisquid West",
+            "label": "P"
+        },
+        {
+            "value": "Piusville",
+            "label": "P"
+        },
+        {
+            "value": "Pleasant Grove",
+            "label": "P"
+        },
+        {
+            "value": "Pleasant Grove",
+            "label": "P"
+        },
+        {
+            "value": "Pleasant Valley",
+            "label": "P"
+        },
+        {
+            "value": "Pleasant View",
+            "label": "P"
+        },
+        {
+            "value": "Point Deroche",
+            "label": "P"
+        },
+        {
+            "value": "Point Deroche",
+            "label": "P"
+        },
+        {
+            "value": "Point Deroche Pond",
+            "label": "P"
+        },
+        {
+            "value": "Point Pleasant",
+            "label": "P"
+        },
+        {
+            "value": "Point Pleasant",
+            "label": "P"
+        },
+        {
+            "value": "Point Prim",
+            "label": "P"
+        },
+        {
+            "value": "Point Prim",
+            "label": "P"
+        },
+        {
+            "value": "Point of the Narrows",
+            "label": "P"
+        },
+        {
+            "value": "Pollard Brook",
+            "label": "P"
+        },
+        {
+            "value": "Pond Point",
+            "label": "P"
+        },
+        {
+            "value": "Poole's Corner Provincial Park",
+            "label": "P"
+        },
+        {
+            "value": "Pooles Corner",
+            "label": "P"
+        },
+        {
+            "value": "Poplar Grove",
+            "label": "P"
+        },
+        {
+            "value": "Poplar Island",
+            "label": "P"
+        },
+        {
+            "value": "Poplar Point",
+            "label": "P"
+        },
+        {
+            "value": "Poplar Point",
+            "label": "P"
+        },
+        {
+            "value": "Port Borden",
+            "label": "P"
+        },
+        {
+            "value": "Port Borden",
+            "label": "P"
+        },
+        {
+            "value": "Port Hill",
+            "label": "P"
+        },
+        {
+            "value": "Port Hill Station",
+            "label": "P"
+        },
+        {
+            "value": "Port-la-Joye–Fort Amherst National Historic Site of Canada",
+            "label": "P"
+        },
+        {
+            "value": "Portage",
+            "label": "P"
+        },
+        {
+            "value": "Portage Lake",
+            "label": "P"
+        },
+        {
+            "value": "Portage River",
+            "label": "P"
+        },
+        {
+            "value": "Portage Shore",
+            "label": "P"
+        },
+        {
+            "value": "Poverty Beach",
+            "label": "P"
+        },
+        {
+            "value": "Pownal",
+            "label": "P"
+        },
+        {
+            "value": "Pownal Bay",
+            "label": "P"
+        },
+        {
+            "value": "Pownal Point",
+            "label": "P"
+        },
+        {
+            "value": "Poxy Island",
+            "label": "P"
+        },
+        {
+            "value": "Prevost Cove",
+            "label": "P"
+        },
+        {
+            "value": "Priest Pond",
+            "label": "P"
+        },
+        {
+            "value": "Priest Pond",
+            "label": "P"
+        },
+        {
+            "value": "Priest Pond Creek",
+            "label": "P"
+        },
+        {
+            "value": "Prim Reefs",
+            "label": "P"
+        },
+        {
+            "value": "Primrose",
+            "label": "P"
+        },
+        {
+            "value": "Prince",
+            "label": "P"
+        },
+        {
+            "value": "Prince Edward Island",
+            "label": "P"
+        },
+        {
+            "value": "Prince Edward Island",
+            "label": "P"
+        },
+        {
+            "value": "Prince Edward Island National Park of Canada",
+            "label": "P"
+        },
+        {
+            "value": "Princetown",
+            "label": "P"
+        },
+        {
+            "value": "Princetown Point",
+            "label": "P"
+        },
+        {
+            "value": "Profits Corner",
+            "label": "P"
+        },
+        {
+            "value": "Profitts Point",
+            "label": "P"
+        },
+        {
+            "value": "Province House National Historic Site of Canada",
+            "label": "P"
+        },
+        {
+            "value": "Prowses Pond",
+            "label": "P"
+        },
+        {
+            "value": "Queens",
+            "label": "Q"
+        },
+        {
+            "value": "Queens Point",
+            "label": "Q"
+        },
+        {
+            "value": "Quigleys Pond",
+            "label": "Q"
+        },
+        {
+            "value": "Quinns Brook",
+            "label": "Q"
+        },
+        {
+            "value": "Rackhams Pond",
+            "label": "R"
+        },
+        {
+            "value": "Ram Island",
+            "label": "R"
+        },
+        {
+            "value": "Ram Island",
+            "label": "R"
+        },
+        {
+            "value": "Rams Island",
+            "label": "R"
+        },
+        {
+            "value": "Ramsay Creek",
+            "label": "R"
+        },
+        {
+            "value": "Ramsays Pond",
+            "label": "R"
+        },
+        {
+            "value": "Rayners Creek",
+            "label": "R"
+        },
+        {
+            "value": "Rayners Pond",
+            "label": "R"
+        },
+        {
+            "value": "Reads Corner",
+            "label": "R"
+        },
+        {
+            "value": "Reads Creek",
+            "label": "R"
+        },
+        {
+            "value": "Reardons Pond",
+            "label": "R"
+        },
+        {
+            "value": "Red Head",
+            "label": "R"
+        },
+        {
+            "value": "Red Head",
+            "label": "R"
+        },
+        {
+            "value": "Red Head",
+            "label": "R"
+        },
+        {
+            "value": "Red House",
+            "label": "R"
+        },
+        {
+            "value": "Red Point",
+            "label": "R"
+        },
+        {
+            "value": "Red Point",
+            "label": "R"
+        },
+        {
+            "value": "Red Point",
+            "label": "R"
+        },
+        {
+            "value": "Red Point",
+            "label": "R"
+        },
+        {
+            "value": "Red Point",
+            "label": "R"
+        },
+        {
+            "value": "Red Point",
+            "label": "R"
+        },
+        {
+            "value": "Red Point",
+            "label": "R"
+        },
+        {
+            "value": "Red Point Provincial Park",
+            "label": "R"
+        },
+        {
+            "value": "Refuge d'oiseaux de Black Pond",
+            "label": "R"
+        },
+        {
+            "value": "Reillys Shore",
+            "label": "R"
+        },
+        {
+            "value": "Rennies Road",
+            "label": "R"
+        },
+        {
+            "value": "Reynolds Creek",
+            "label": "R"
+        },
+        {
+            "value": "Reynolds Island",
+            "label": "R"
+        },
+        {
+            "value": "Rice Point",
+            "label": "R"
+        },
+        {
+            "value": "Rice Point",
+            "label": "R"
+        },
+        {
+            "value": "Richard Point",
+            "label": "R"
+        },
+        {
+            "value": "Richards Point",
+            "label": "R"
+        },
+        {
+            "value": "Richmond",
+            "label": "R"
+        },
+        {
+            "value": "Richmond Bay",
+            "label": "R"
+        },
+        {
+            "value": "Rifleman Reef",
+            "label": "R"
+        },
+        {
+            "value": "River Platte",
+            "label": "R"
+        },
+        {
+            "value": "Riverdale",
+            "label": "R"
+        },
+        {
+            "value": "Riverton",
+            "label": "R"
+        },
+        {
+            "value": "Robbs Creek",
+            "label": "R"
+        },
+        {
+            "value": "Robertson",
+            "label": "R"
+        },
+        {
+            "value": "Robertson Creek",
+            "label": "R"
+        },
+        {
+            "value": "Robinsons Cove",
+            "label": "R"
+        },
+        {
+            "value": "Robinsons Island",
+            "label": "R"
+        },
+        {
+            "value": "Rock Barra",
+            "label": "R"
+        },
+        {
+            "value": "Rocky Point",
+            "label": "R"
+        },
+        {
+            "value": "Rocky Point",
+            "label": "R"
+        },
+        {
+            "value": "Rocky Point",
+            "label": "R"
+        },
+        {
+            "value": "Rocky Point",
+            "label": "R"
+        },
+        {
+            "value": "Rocky Point 3",
+            "label": "R"
+        },
+        {
+            "value": "Rollings Pond",
+            "label": "R"
+        },
+        {
+            "value": "Rollo Bay",
+            "label": "R"
+        },
+        {
+            "value": "Rollo Bay",
+            "label": "R"
+        },
+        {
+            "value": "Rollo Bay West",
+            "label": "R"
+        },
+        {
+            "value": "Rollo Point",
+            "label": "R"
+        },
+        {
+            "value": "Rose Valley",
+            "label": "R"
+        },
+        {
+            "value": "Rosebank",
+            "label": "R"
+        },
+        {
+            "value": "Rosebank",
+            "label": "R"
+        },
+        {
+            "value": "Rosebank Point",
+            "label": "R"
+        },
+        {
+            "value": "Roseberry",
+            "label": "R"
+        },
+        {
+            "value": "Roseberry Pond",
+            "label": "R"
+        },
+        {
+            "value": "Roseberry Twin Ponds",
+            "label": "R"
+        },
+        {
+            "value": "Rosehill",
+            "label": "R"
+        },
+        {
+            "value": "Roseneath",
+            "label": "R"
+        },
+        {
+            "value": "Roseville",
+            "label": "R"
+        },
+        {
+            "value": "Ross Corner",
+            "label": "R"
+        },
+        {
+            "value": "Ross Creek",
+            "label": "R"
+        },
+        {
+            "value": "Ross Pond",
+            "label": "R"
+        },
+        {
+            "value": "Round Pond",
+            "label": "R"
+        },
+        {
+            "value": "Rourkes Creek",
+            "label": "R"
+        },
+        {
+            "value": "Roxbury",
+            "label": "R"
+        },
+        {
+            "value": "Royalty Junction",
+            "label": "R"
+        },
+        {
+            "value": "Royalty Point",
+            "label": "R"
+        },
+        {
+            "value": "Rustico Bay",
+            "label": "R"
+        },
+        {
+            "value": "Rusticoville",
+            "label": "R"
+        },
+        {
+            "value": "Saltgrass Point",
+            "label": "S"
+        },
+        {
+            "value": "Saltgrass Point",
+            "label": "S"
+        },
+        {
+            "value": "Salutation Cove",
+            "label": "S"
+        },
+        {
+            "value": "Sand Point",
+            "label": "S"
+        },
+        {
+            "value": "Sandy Cove",
+            "label": "S"
+        },
+        {
+            "value": "Sandy Island",
+            "label": "S"
+        },
+        {
+            "value": "Sandy Point",
+            "label": "S"
+        },
+        {
+            "value": "Saunders Point",
+            "label": "S"
+        },
+        {
+            "value": "Savage Harbour",
+            "label": "S"
+        },
+        {
+            "value": "Savage Harbour",
+            "label": "S"
+        },
+        {
+            "value": "Scales Pond",
+            "label": "S"
+        },
+        {
+            "value": "Scales Pond Provincial Park",
+            "label": "S"
+        },
+        {
+            "value": "Schooner Creek",
+            "label": "S"
+        },
+        {
+            "value": "Schooner Pond",
+            "label": "S"
+        },
+        {
+            "value": "Schurmans Brook",
+            "label": "S"
+        },
+        {
+            "value": "Schurmans Point",
+            "label": "S"
+        },
+        {
+            "value": "Scotchfort",
+            "label": "S"
+        },
+        {
+            "value": "Scotchfort 4",
+            "label": "S"
+        },
+        {
+            "value": "Scotts Creek",
+            "label": "S"
+        },
+        {
+            "value": "Sea View",
+            "label": "S"
+        },
+        {
+            "value": "Seabrook",
+            "label": "S"
+        },
+        {
+            "value": "Seacow Head",
+            "label": "S"
+        },
+        {
+            "value": "Seacow Pond",
+            "label": "S"
+        },
+        {
+            "value": "Seacow Pond",
+            "label": "S"
+        },
+        {
+            "value": "Seal Point",
+            "label": "S"
+        },
+        {
+            "value": "Seal Point",
+            "label": "S"
+        },
+        {
+            "value": "Seal River",
+            "label": "S"
+        },
+        {
+            "value": "Seal River",
+            "label": "S"
+        },
+        {
+            "value": "Seal River",
+            "label": "S"
+        },
+        {
+            "value": "Seal River",
+            "label": "S"
+        },
+        {
+            "value": "Searletown",
+            "label": "S"
+        },
+        {
+            "value": "Seatrout Point",
+            "label": "S"
+        },
+        {
+            "value": "Selkirk",
+            "label": "S"
+        },
+        {
+            "value": "Sevenmile Bay",
+            "label": "S"
+        },
+        {
+            "value": "Shallop Rock",
+            "label": "S"
+        },
+        {
+            "value": "Shamrock",
+            "label": "S"
+        },
+        {
+            "value": "Sharams Point",
+            "label": "S"
+        },
+        {
+            "value": "Sharps Point",
+            "label": "S"
+        },
+        {
+            "value": "Shaws Beach",
+            "label": "S"
+        },
+        {
+            "value": "Shaws Point",
+            "label": "S"
+        },
+        {
+            "value": "Shea Shore",
+            "label": "S"
+        },
+        {
+            "value": "Sheas Brook",
+            "label": "S"
+        },
+        {
+            "value": "Sheas Pond",
+            "label": "S"
+        },
+        {
+            "value": "Sheep Head",
+            "label": "S"
+        },
+        {
+            "value": "Sheep Pond",
+            "label": "S"
+        },
+        {
+            "value": "Sheep River",
+            "label": "S"
+        },
+        {
+            "value": "Sherbrooke",
+            "label": "S"
+        },
+        {
+            "value": "Sherbrooke",
+            "label": "S"
+        },
+        {
+            "value": "Sherrens Pond",
+            "label": "S"
+        },
+        {
+            "value": "Sherwood",
+            "label": "S"
+        },
+        {
+            "value": "Ship Channel",
+            "label": "S"
+        },
+        {
+            "value": "Shipwreck Point",
+            "label": "S"
+        },
+        {
+            "value": "Shipyard Creek",
+            "label": "S"
+        },
+        {
+            "value": "Shipyard Point",
+            "label": "S"
+        },
+        {
+            "value": "Shipyard Point",
+            "label": "S"
+        },
+        {
+            "value": "Shipyard River",
+            "label": "S"
+        },
+        {
+            "value": "Shooting Gallery Shore",
+            "label": "S"
+        },
+        {
+            "value": "Short Point",
+            "label": "S"
+        },
+        {
+            "value": "Sickle Point",
+            "label": "S"
+        },
+        {
+            "value": "Skinners Pond",
+            "label": "S"
+        },
+        {
+            "value": "Skinners Pond",
+            "label": "S"
+        },
+        {
+            "value": "Slemon Park",
+            "label": "S"
+        },
+        {
+            "value": "Smelt Creek",
+            "label": "S"
+        },
+        {
+            "value": "Smelt Creek",
+            "label": "S"
+        },
+        {
+            "value": "Smelt River",
+            "label": "S"
+        },
+        {
+            "value": "Souris",
+            "label": "S"
+        },
+        {
+            "value": "Souris Beach Provincial Park",
+            "label": "S"
+        },
+        {
+            "value": "Souris Harbour",
+            "label": "S"
+        },
+        {
+            "value": "Souris Head",
+            "label": "S"
+        },
+        {
+            "value": "Souris Line Road",
+            "label": "S"
+        },
+        {
+            "value": "Souris River",
+            "label": "S"
+        },
+        {
+            "value": "Souris River",
+            "label": "S"
+        },
+        {
+            "value": "Souris West",
+            "label": "S"
+        },
+        {
+            "value": "Souris West",
+            "label": "S"
+        },
+        {
+            "value": "South Branch Pinette River",
+            "label": "S"
+        },
+        {
+            "value": "South Branch Sturgeon River",
+            "label": "S"
+        },
+        {
+            "value": "South Freetown",
+            "label": "S"
+        },
+        {
+            "value": "South Granville",
+            "label": "S"
+        },
+        {
+            "value": "South Lake",
+            "label": "S"
+        },
+        {
+            "value": "South Lake",
+            "label": "S"
+        },
+        {
+            "value": "South Melville",
+            "label": "S"
+        },
+        {
+            "value": "South Pinette",
+            "label": "S"
+        },
+        {
+            "value": "South River",
+            "label": "S"
+        },
+        {
+            "value": "South Rustico",
+            "label": "S"
+        },
+        {
+            "value": "Southampton",
+            "label": "S"
+        },
+        {
+            "value": "Southport",
+            "label": "S"
+        },
+        {
+            "value": "Southwest Brook",
+            "label": "S"
+        },
+        {
+            "value": "Southwest Creek",
+            "label": "S"
+        },
+        {
+            "value": "Southwest Lot 16",
+            "label": "S"
+        },
+        {
+            "value": "Southwest River",
+            "label": "S"
+        },
+        {
+            "value": "Spear Point",
+            "label": "S"
+        },
+        {
+            "value": "Spithead",
+            "label": "S"
+        },
+        {
+            "value": "Spring Park",
+            "label": "S"
+        },
+        {
+            "value": "Spring Valley",
+            "label": "S"
+        },
+        {
+            "value": "Springbrook",
+            "label": "S"
+        },
+        {
+            "value": "Springfield",
+            "label": "S"
+        },
+        {
+            "value": "Springfield West",
+            "label": "S"
+        },
+        {
+            "value": "Springhill",
+            "label": "S"
+        },
+        {
+            "value": "Springton",
+            "label": "S"
+        },
+        {
+            "value": "Springvale",
+            "label": "S"
+        },
+        {
+            "value": "Spry Cove",
+            "label": "S"
+        },
+        {
+            "value": "St-Gilbert",
+            "label": "S"
+        },
+        {
+            "value": "St-Hubert",
+            "label": "S"
+        },
+        {
+            "value": "St-Nicholas",
+            "label": "S"
+        },
+        {
+            "value": "St-Philippe",
+            "label": "S"
+        },
+        {
+            "value": "St-Raphaël",
+            "label": "S"
+        },
+        {
+            "value": "St-Timothée",
+            "label": "S"
+        },
+        {
+            "value": "St. Andrews",
+            "label": "S"
+        },
+        {
+            "value": "St. Andrews Creek",
+            "label": "S"
+        },
+        {
+            "value": "St. Ann",
+            "label": "S"
+        },
+        {
+            "value": "St. Anthony",
+            "label": "S"
+        },
+        {
+            "value": "St. Catherines",
+            "label": "S"
+        },
+        {
+            "value": "St. Catherines",
+            "label": "S"
+        },
+        {
+            "value": "St. Charles",
+            "label": "S"
+        },
+        {
+            "value": "St. Chrysostome",
+            "label": "S"
+        },
+        {
+            "value": "St. Dunstan's",
+            "label": "S"
+        },
+        {
+            "value": "St. Edward",
+            "label": "S"
+        },
+        {
+            "value": "St. Eleanors",
+            "label": "S"
+        },
+        {
+            "value": "St. Felix",
+            "label": "S"
+        },
+        {
+            "value": "St. Felix",
+            "label": "S"
+        },
+        {
+            "value": "St. Georges",
+            "label": "S"
+        },
+        {
+            "value": "St. Lawrence",
+            "label": "S"
+        },
+        {
+            "value": "St. Louis",
+            "label": "S"
+        },
+        {
+            "value": "St. Margarets",
+            "label": "S"
+        },
+        {
+            "value": "St. Marys Bay",
+            "label": "S"
+        },
+        {
+            "value": "St. Marys Road",
+            "label": "S"
+        },
+        {
+            "value": "St. Nicholas",
+            "label": "S"
+        },
+        {
+            "value": "St. Patrick Road",
+            "label": "S"
+        },
+        {
+            "value": "St. Patricks",
+            "label": "S"
+        },
+        {
+            "value": "St. Peter and St. Paul",
+            "label": "S"
+        },
+        {
+            "value": "St. Peters Bay",
+            "label": "S"
+        },
+        {
+            "value": "St. Peters Bay",
+            "label": "S"
+        },
+        {
+            "value": "St. Peters Harbour",
+            "label": "S"
+        },
+        {
+            "value": "St. Peters Island",
+            "label": "S"
+        },
+        {
+            "value": "St. Peters Island Bar",
+            "label": "S"
+        },
+        {
+            "value": "St. Peters Lake",
+            "label": "S"
+        },
+        {
+            "value": "St. Peters River",
+            "label": "S"
+        },
+        {
+            "value": "St. Peters Road",
+            "label": "S"
+        },
+        {
+            "value": "St. Peters Shoals",
+            "label": "S"
+        },
+        {
+            "value": "St. Peters Spit",
+            "label": "S"
+        },
+        {
+            "value": "St. Roch",
+            "label": "S"
+        },
+        {
+            "value": "St. Teresa",
+            "label": "S"
+        },
+        {
+            "value": "Stanchel",
+            "label": "S"
+        },
+        {
+            "value": "Stanhope",
+            "label": "S"
+        },
+        {
+            "value": "Stanhope Bayshore",
+            "label": "S"
+        },
+        {
+            "value": "Stanhope Beach",
+            "label": "S"
+        },
+        {
+            "value": "Stanhope by the Sea",
+            "label": "S"
+        },
+        {
+            "value": "Stanley Bridge",
+            "label": "S"
+        },
+        {
+            "value": "Stanley Bridge, Hope River, Bayview, Cavendish and North Rustico",
+            "label": "S"
+        },
+        {
+            "value": "Stanley River",
+            "label": "S"
+        },
+        {
+            "value": "Staverts Shore",
+            "label": "S"
+        },
+        {
+            "value": "Steeles Pond",
+            "label": "S"
+        },
+        {
+            "value": "Stevensons Pond",
+            "label": "S"
+        },
+        {
+            "value": "Stewart Cove",
+            "label": "S"
+        },
+        {
+            "value": "Stewarts Creek",
+            "label": "S"
+        },
+        {
+            "value": "Stewarts Pond",
+            "label": "S"
+        },
+        {
+            "value": "Stewarts Pond",
+            "label": "S"
+        },
+        {
+            "value": "Stewarts Pond",
+            "label": "S"
+        },
+        {
+            "value": "Stratford",
+            "label": "S"
+        },
+        {
+            "value": "Strathcona",
+            "label": "S"
+        },
+        {
+            "value": "Strathgartney",
+            "label": "S"
+        },
+        {
+            "value": "Strathgartney Provincial Park",
+            "label": "S"
+        },
+        {
+            "value": "Stuart Point",
+            "label": "S"
+        },
+        {
+            "value": "Sturgeon",
+            "label": "S"
+        },
+        {
+            "value": "Sturgeon Bay",
+            "label": "S"
+        },
+        {
+            "value": "Sturgeon River",
+            "label": "S"
+        },
+        {
+            "value": "Suffolk",
+            "label": "S"
+        },
+        {
+            "value": "Summerfield",
+            "label": "S"
+        },
+        {
+            "value": "Summerside",
+            "label": "S"
+        },
+        {
+            "value": "Summerside Harbour",
+            "label": "S"
+        },
+        {
+            "value": "Summerville",
+            "label": "S"
+        },
+        {
+            "value": "Sunbury Cove",
+            "label": "S"
+        },
+        {
+            "value": "Sunbury Point",
+            "label": "S"
+        },
+        {
+            "value": "Surrey",
+            "label": "S"
+        },
+        {
+            "value": "Surveyor Point",
+            "label": "S"
+        },
+        {
+            "value": "Sutherland Creek",
+            "label": "S"
+        },
+        {
+            "value": "Swanton Point",
+            "label": "S"
+        },
+        {
+            "value": "Tannery Creek",
+            "label": "T"
+        },
+        {
+            "value": "Tarantum",
+            "label": "T"
+        },
+        {
+            "value": "Taylor Point",
+            "label": "T"
+        },
+        {
+            "value": "Taylors Pond",
+            "label": "T"
+        },
+        {
+            "value": "Tea Hill",
+            "label": "T"
+        },
+        {
+            "value": "Tea Hill",
+            "label": "T"
+        },
+        {
+            "value": "Tea Hill Provincial Park",
+            "label": "T"
+        },
+        {
+            "value": "Tenmile House",
+            "label": "T"
+        },
+        {
+            "value": "The Barachois",
+            "label": "T"
+        },
+        {
+            "value": "The Creek",
+            "label": "T"
+        },
+        {
+            "value": "The Gap",
+            "label": "T"
+        },
+        {
+            "value": "The Green",
+            "label": "T"
+        },
+        {
+            "value": "The Inlet",
+            "label": "T"
+        },
+        {
+            "value": "The S",
+            "label": "T"
+        },
+        {
+            "value": "Thomas Island",
+            "label": "T"
+        },
+        {
+            "value": "Thompson Creek",
+            "label": "T"
+        },
+        {
+            "value": "Thompsons Creek",
+            "label": "T"
+        },
+        {
+            "value": "Thompsons Point",
+            "label": "T"
+        },
+        {
+            "value": "Thompsons Point",
+            "label": "T"
+        },
+        {
+            "value": "Thompsons Pond",
+            "label": "T"
+        },
+        {
+            "value": "Thornton Point",
+            "label": "T"
+        },
+        {
+            "value": "Throggys Marsh",
+            "label": "T"
+        },
+        {
+            "value": "Thrumcap Spit",
+            "label": "T"
+        },
+        {
+            "value": "Tignish",
+            "label": "T"
+        },
+        {
+            "value": "Tignish",
+            "label": "T"
+        },
+        {
+            "value": "Tignish Corner",
+            "label": "T"
+        },
+        {
+            "value": "Tignish Harbour",
+            "label": "T"
+        },
+        {
+            "value": "Tignish River",
+            "label": "T"
+        },
+        {
+            "value": "Tignish Run",
+            "label": "T"
+        },
+        {
+            "value": "Tignish Shore",
+            "label": "T"
+        },
+        {
+            "value": "Toronto",
+            "label": "T"
+        },
+        {
+            "value": "Townshend Woodlot Provincial Park",
+            "label": "T"
+        },
+        {
+            "value": "Tracadie",
+            "label": "T"
+        },
+        {
+            "value": "Tracadie Bay",
+            "label": "T"
+        },
+        {
+            "value": "Tracadie Cross",
+            "label": "T"
+        },
+        {
+            "value": "Tracadie Harbour",
+            "label": "T"
+        },
+        {
+            "value": "Travellers Rest",
+            "label": "T"
+        },
+        {
+            "value": "Trout River",
+            "label": "T"
+        },
+        {
+            "value": "Trout River",
+            "label": "T"
+        },
+        {
+            "value": "Trout River",
+            "label": "T"
+        },
+        {
+            "value": "Trout River",
+            "label": "T"
+        },
+        {
+            "value": "Trout Rock",
+            "label": "T"
+        },
+        {
+            "value": "Tryon",
+            "label": "T"
+        },
+        {
+            "value": "Tryon Head",
+            "label": "T"
+        },
+        {
+            "value": "Tryon River",
+            "label": "T"
+        },
+        {
+            "value": "Tryon Shoals",
+            "label": "T"
+        },
+        {
+            "value": "Tuplin Creek",
+            "label": "T"
+        },
+        {
+            "value": "Tyne Valley",
+            "label": "T"
+        },
+        {
+            "value": "Tyne Valley Pond",
+            "label": "T"
+        },
+        {
+            "value": "Tyrone",
+            "label": "T"
+        },
+        {
+            "value": "Uigg",
+            "label": "U"
+        },
+        {
+            "value": "Union",
+            "label": "U"
+        },
+        {
+            "value": "Union Corner",
+            "label": "U"
+        },
+        {
+            "value": "Union Corner Provincial Park",
+            "label": "U"
+        },
+        {
+            "value": "Union Road",
+            "label": "U"
+        },
+        {
+            "value": "Union Road",
+            "label": "U"
+        },
+        {
+            "value": "Union Road",
+            "label": "U"
+        },
+        {
+            "value": "Unionvale",
+            "label": "U"
+        },
+        {
+            "value": "Upper MacLures Pond",
+            "label": "U"
+        },
+        {
+            "value": "Upper Simpsons Pond",
+            "label": "U"
+        },
+        {
+            "value": "Upton",
+            "label": "U"
+        },
+        {
+            "value": "Urbainville",
+            "label": "U"
+        },
+        {
+            "value": "Valley",
+            "label": "V"
+        },
+        {
+            "value": "Valleyfield",
+            "label": "V"
+        },
+        {
+            "value": "Valleyfield",
+            "label": "V"
+        },
+        {
+            "value": "Valleyfield Pond",
+            "label": "V"
+        },
+        {
+            "value": "Valleyfield River",
+            "label": "V"
+        },
+        {
+            "value": "Vernon Bridge",
+            "label": "V"
+        },
+        {
+            "value": "Vernon River",
+            "label": "V"
+        },
+        {
+            "value": "Vernon River",
+            "label": "V"
+        },
+        {
+            "value": "Vesseys Creek",
+            "label": "V"
+        },
+        {
+            "value": "Victoria",
+            "label": "V"
+        },
+        {
+            "value": "Victoria Cross",
+            "label": "V"
+        },
+        {
+            "value": "Victoria Harbour",
+            "label": "V"
+        },
+        {
+            "value": "Victoria Provincial Park",
+            "label": "V"
+        },
+        {
+            "value": "Victoria West",
+            "label": "V"
+        },
+        {
+            "value": "Village Green",
+            "label": "V"
+        },
+        {
+            "value": "Waites Creek",
+            "label": "W"
+        },
+        {
+            "value": "Waites Shore",
+            "label": "W"
+        },
+        {
+            "value": "Walkers Cove",
+            "label": "W"
+        },
+        {
+            "value": "Warren Cove",
+            "label": "W"
+        },
+        {
+            "value": "Warren Grove",
+            "label": "W"
+        },
+        {
+            "value": "Warrens Point",
+            "label": "W"
+        },
+        {
+            "value": "Warrens Pond",
+            "label": "W"
+        },
+        {
+            "value": "Warrens Pond",
+            "label": "W"
+        },
+        {
+            "value": "Warrens Pond",
+            "label": "W"
+        },
+        {
+            "value": "Waterford",
+            "label": "W"
+        },
+        {
+            "value": "Waterside",
+            "label": "W"
+        },
+        {
+            "value": "Watervale",
+            "label": "W"
+        },
+        {
+            "value": "Watts Creek",
+            "label": "W"
+        },
+        {
+            "value": "Watts Creek",
+            "label": "W"
+        },
+        {
+            "value": "Webber Cove",
+            "label": "W"
+        },
+        {
+            "value": "Webber Point",
+            "label": "W"
+        },
+        {
+            "value": "Webster Creek",
+            "label": "W"
+        },
+        {
+            "value": "Websters Corner",
+            "label": "W"
+        },
+        {
+            "value": "Websters Island",
+            "label": "W"
+        },
+        {
+            "value": "Websters Pond",
+            "label": "W"
+        },
+        {
+            "value": "Websters Pond",
+            "label": "W"
+        },
+        {
+            "value": "Wellington",
+            "label": "W"
+        },
+        {
+            "value": "Wellington",
+            "label": "W"
+        },
+        {
+            "value": "Wellington Centre",
+            "label": "W"
+        },
+        {
+            "value": "Wellington Station",
+            "label": "W"
+        },
+        {
+            "value": "West Branch Morell River",
+            "label": "W"
+        },
+        {
+            "value": "West Branch Sturgeon River",
+            "label": "W"
+        },
+        {
+            "value": "West Cape",
+            "label": "W"
+        },
+        {
+            "value": "West Covehead",
+            "label": "W"
+        },
+        {
+            "value": "West Devon",
+            "label": "W"
+        },
+        {
+            "value": "West Lake Creek",
+            "label": "W"
+        },
+        {
+            "value": "West Point",
+            "label": "W"
+        },
+        {
+            "value": "West Point",
+            "label": "W"
+        },
+        {
+            "value": "West Reef",
+            "label": "W"
+        },
+        {
+            "value": "West River",
+            "label": "W"
+        },
+        {
+            "value": "West River",
+            "label": "W"
+        },
+        {
+            "value": "West Royalty",
+            "label": "W"
+        },
+        {
+            "value": "West Spit",
+            "label": "W"
+        },
+        {
+            "value": "West St. Peters",
+            "label": "W"
+        },
+        {
+            "value": "Westmoreland",
+            "label": "W"
+        },
+        {
+            "value": "Westmoreland River",
+            "label": "W"
+        },
+        {
+            "value": "Wheatley River",
+            "label": "W"
+        },
+        {
+            "value": "Wheatley River",
+            "label": "W"
+        },
+        {
+            "value": "Wheelers Bar",
+            "label": "W"
+        },
+        {
+            "value": "Whim Road",
+            "label": "W"
+        },
+        {
+            "value": "White Sands",
+            "label": "W"
+        },
+        {
+            "value": "Whites Cove",
+            "label": "W"
+        },
+        {
+            "value": "Whitlocks Pond",
+            "label": "W"
+        },
+        {
+            "value": "Wight Point",
+            "label": "W"
+        },
+        {
+            "value": "Wightmans Point",
+            "label": "W"
+        },
+        {
+            "value": "Williams Creek",
+            "label": "W"
+        },
+        {
+            "value": "Willis Pond",
+            "label": "W"
+        },
+        {
+            "value": "Wilmot",
+            "label": "W"
+        },
+        {
+            "value": "Wilmot",
+            "label": "W"
+        },
+        {
+            "value": "Wilmot River",
+            "label": "W"
+        },
+        {
+            "value": "Wilmot Valley",
+            "label": "W"
+        },
+        {
+            "value": "Wilsons Creek",
+            "label": "W"
+        },
+        {
+            "value": "Wilsons Point",
+            "label": "W"
+        },
+        {
+            "value": "Winchester Cape",
+            "label": "W"
+        },
+        {
+            "value": "Windon",
+            "label": "W"
+        },
+        {
+            "value": "Winsloe",
+            "label": "W"
+        },
+        {
+            "value": "Winsloe South",
+            "label": "W"
+        },
+        {
+            "value": "Winter River",
+            "label": "W"
+        },
+        {
+            "value": "Wiseners Pond",
+            "label": "W"
+        },
+        {
+            "value": "Wolfe Inlet",
+            "label": "W"
+        },
+        {
+            "value": "Wood Island",
+            "label": "W"
+        },
+        {
+            "value": "Wood Islands",
+            "label": "W"
+        },
+        {
+            "value": "Wood Islands",
+            "label": "W"
+        },
+        {
+            "value": "Wood Islands Harbour",
+            "label": "W"
+        },
+        {
+            "value": "Wood Islands Provincial Park",
+            "label": "W"
+        },
+        {
+            "value": "Woods Bay",
+            "label": "W"
+        },
+        {
+            "value": "Woods Point",
+            "label": "W"
+        },
+        {
+            "value": "Woodside Shore",
+            "label": "W"
+        },
+        {
+            "value": "Woodstock",
+            "label": "W"
+        },
+        {
+            "value": "Woodvale",
+            "label": "W"
+        },
+        {
+            "value": "Woodville Mills",
+            "label": "W"
+        },
+        {
+            "value": "Worths Pond",
+            "label": "W"
+        },
+        {
+            "value": "Wrights Cove",
+            "label": "W"
+        },
+        {
+            "value": "Wrights Creek",
+            "label": "W"
+        },
+        {
+            "value": "Wrights Creek",
+            "label": "W"
+        },
+        {
+            "value": "Wrights Point",
+            "label": "W"
+        },
+        {
+            "value": "Wrights Pond",
+            "label": "W"
+        },
+        {
+            "value": "Yankee Hill",
+            "label": "Y"
+        },
+        {
+            "value": "Yeo Creek",
+            "label": "Y"
+        },
+        {
+            "value": "Yeo Point",
+            "label": "Y"
+        },
+        {
+            "value": "Yeos Creek",
+            "label": "Y"
+        },
+        {
+            "value": "Yeos Point",
+            "label": "Y"
+        },
+        {
+            "value": "Yeos Shore",
+            "label": "Y"
+        },
+        {
+            "value": "York",
+            "label": "Y"
+        },
+        {
+            "value": "York",
+            "label": "Y"
+        },
+        {
+            "value": "York Point",
+            "label": "Y"
+        },
+        {
+            "value": "York Point",
+            "label": "Y"
+        },
+        {
+            "value": "Youngs Marsh",
+            "label": "Y"
+        },
+        {
+            "value": "Youngs Shoal",
+            "label": "Y"
+        },
+        {
+            "value": "Île-du-Prince-Édouard",
+            "label": "Î"
+        }
+    ]
+}
